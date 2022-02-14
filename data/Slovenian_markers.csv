@@ -7,7 +7,7 @@ language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	i
 17	Slovenian	na_ACC	adposition	no	yes	no	no	no	no	n.a.	n.a.
 17	Slovenian	nad_INS	adposition	no	no	no	no	yes	no	n.a.	n.a.
 17	Slovenian	od_GEN	adposition	yes	no	no	no	no	yes	n.a.	n.a.
-17	Slovenian	po_LOC	adposition	no	no	yes	no	no	yes	no	no
+17	Slovenian	po_LOC	adposition	yes	no	yes	no	no	yes	no	no
 17	Slovenian	pod_INS	adposition	no	no	no	yes	no	no	n.a.	n.a.
 17	Slovenian	sodec_po_LOC	adposition	yes	no	no	no	no	no	no	n.a.
 17	Slovenian	v_LOC	adposition	no	no	no	yes	no	no	n.a.	n.a.
