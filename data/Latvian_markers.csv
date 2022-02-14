@@ -1,11 +1,12 @@
 language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
 20	Latvian	aiz_GEN	adposition	yes	yes	no	yes	no	no	n.a.	n.a.
-20	Latvian	ar_INS	adposition	yes	no	yes	no	no	no	n.a.	n.a.
+20	Latvian	ar_INS	adposition	no	no	yes	no	no	no	n.a.	n.a.
 20	Latvian	GEN_del	adposition	yes	no	no	no	no	no	no	n.a.
+20	Latvian	GEN_pec	adposition	yes	yes	no	no	no	no	n.a.	Same adposition as in pec_GEN, but used as postposition
 20	Latvian	LOC	affix	yes	yes	no	yes	no	no	n.a.	n.a.
 20	Latvian	no_GEN	adposition	yes	no	no	no	no	yes	n.a.	n.a.
-20	Latvian	par_ACC	adposition	no	yes	no	no	yes	no	n.a.	n.a.
+20	Latvian	par_ACC	adposition	yes	yes	no	no	yes	no	n.a.	n.a.
 20	Latvian	pateicoties_DAT	adposition	yes	no	no	no	no	no	no	n.a.
-20	Latvian	pec_GEN	adposition	yes	yes	no	no	no	yes	n.a.	n.a.
+20	Latvian	pec_GEN	adposition	no	yes	yes	no	no	yes	n.a.	Same adposition as in GEN_pec, but used as preposition
 20	Latvian	spriezot_pec_GEN	adposition	yes	no	no	no	no	no	no	n.a.
 20	Latvian	uz_ACC	adposition	no	yes	no	no	no	no	n.a.	n.a.
