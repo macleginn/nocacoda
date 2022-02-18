@@ -1,0 +1,8 @@
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+16	South_Udmurt	ABL	affix	yes	no	no	no	no	yes	yes	possessor; demoted agent; standard of comparison
+16	South_Udmurt	ADV	affix	no	no	yes	no	no	no	n.a.	n.a.
+16	South_Udmurt	bere	adposition	no	no	no	no	no	yes	n.a.	n.a.
+16	South_Udmurt	DAT	affix	no	yes	no	no	no	no	yes	experiencer subject
+16	South_Udmurt	DAT_luysa	adposition	yes	no	no	no	no	no	no	n.a.
+16	South_Udmurt	INS	affix	yes	no	yes	no	no	no	yes	demoted agent
+16	South_Udmurt	ponna	adposition	yes	no	no	no	no	no	no	n.a.

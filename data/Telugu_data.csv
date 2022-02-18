@@ -1,0 +1,76 @@
+language_no	language_name	stimulus_no	status	causal_marker	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comments	comments_informal
+8	Telugu	1	main	to	karci kaṇṇiṭi tō taḍici-ṁdi.	handkerchief.SG tear.SG.OBL with drench.PST-3SG.NM	The handerchief got soaked with tears.				
+8	Telugu	2	main	DAT	komma baruvu-ki virigi-ṁdi.	branch.SG weight.SG.OBL-DAT break.PST-3SG.NM	The branch broke from the weight.				
+8	Telugu	2	alternate	valla	komma baruvu valla virigi-ṁdi.	branch.SG weight.SG.OBL by break.PST-3SG.NM	The branch broke because of the weight.				
+8	Telugu	3	main	valla	āviḍa poga valla daggu-tuṁdi.	that_woman.SG smoke.SG.OBL by cough-PRS.3SG.NM	The woman is coughing because of the smoke.				
+8	Telugu	4	main	valla	mēmu cīkaṭi valla tīrānni cuḍalēkapō-tunn-āmu.	1PL.EXCL darkness.SG.OBL by shore.SG.ACC see.INAB-PRS-1PL	We cannot see the shore because of the darkness.				
+8	Telugu	4	alternate	karanamga	mēmu cīkaṭi kāraṇaṁgā tīrānni cuḍalekapō-tunn-āmu.	1PL.EXCL darkness.SG.OBL because_of shore.SG.ACC see.INAB-PRS-1PL	We cannot see the shore because of the darkness.				
+8	Telugu	5	main	n.a.	ataḍu tappu-gā baṁdhiṁca-paḍḍ-āḍu.	that_man.SG mistake-ADVZ tie-PASS.PST-3SG.M	The man was arrested by mistake.			This translation is not included in the database because the causing event is expressed as an adverb, not a nominal phrase.	
+8	Telugu	6	main	DAT	ceṭṭu gāli-ki paḍi-ṁdi.	tree.SG wind.SG.OBL-DAT fall.PST-3SG.NM	The tree fell because of the wind.				This translation, according to the judgment of the native speaker, is practically as natural as the alternative one with the marker -valla.
+8	Telugu	6	alternate	valla	ceṭṭu gāli valla paḍi-ṁdi.	tree.SG wind.SG.OBL by fall.PST-3SG.NM	The tree fell because of the wind.				
+8	Telugu	7	main	DAT	atanu šokku-ki canipōy-āḍu.	that_man.SG shock.SG.OBL-DAT pass_away.PST-3SG.M	The man died from electric shock.				
+8	Telugu	7	alternate	valla	atanu šokku valla canipōy-āḍu.	that_man.SG shock.SG.OBL by pass_away.PST-3SG.M	The man died because of the electric shock.				
+8	Telugu	8	main	DAT	āviḍa šabdāniki lēci-ṁdi.	that_woman.SG sound.SG.DAT rise.PST-3SG.NM	The woman woke up from the noise.				
+8	Telugu	9	main	valla	atani-ki bīru valla talanoppi vacci-ṁdi.	that_man.SG.OBL-DAT beer.SG.OBL by headache.SG come.PST-3SG.NM	The man got a headache because of the beer.				Alternative translation with the marker DAT is characterized as unnatural.
+8	Telugu	10	main	n.a.	āviḍa kukka-ni cūsi navvi-ṁdi.	that_woman.SG dog.SG.OBL-ACC see.CVB.PFV laugh.PST-3SG.NM	The woman laughed at the sight of the dog.			This translation is not included in the database because the causing event is expressed as a dependent clause, not a noun phrase.	In this translation the converb might be grammaticalized: it could have been used even if the woman was blind.
+8	Telugu	10	alternate	valla	āviḍa kukka valla navvi-ṁdi.	that_woman.SG dog.SG.OBL by laugh.PST-3SG.NM	The woman laughed because of the dog.				
+8	Telugu	10	alternate	pai	āviḍa kukka pai navvi-ṁdi.	that_woman.SG dog.SG.OBL over laugh.PST-3SG.NM	The woman laughed at the dog. 				
+8	Telugu	11	main	DAT	atanu viṣapu cēpa-ku canipōy-āḍu.	that_man.SG poison.SG.OBL fish.SG.OBL-DAT pass_away.PST-3SG.M	The man died from the poisonous fish.				
+8	Telugu	11	alternate	valla	atanu viṣapu cēpa valla canipōy-āḍu.	that_man.SG poison.OBL fish.SG.OBL by pass_away.PST-3SG.M	The man died because of the poisonous fish.				
+8	Telugu	11	alternate	karanamga	atanu viṣapu cēpa kāraṇaṁgā canipōy-āḍu.	that_man.SG poison.OBL fish.SG because_of pass_away.PST-3SG.M	The man died because of the poisonous fish.				
+8	Telugu	12	main	to	āme tana grēḍu tō saṁtr̥pti paḍi-ṁdi.	she REFL.POSS grade.SG.OBL with satisfaction.SG fall.PST-3SG.NM	The girl is satisfied with her grade.				
+8	Telugu	13	main	pai	bhārya tana bharta māṭa-la pai kōppaḍi-ṁdi.	wife.SG REFL.POSS husband.SG.OBL word-PL.OBL over get_angry.PST-3SG.NM	The wife was angered by her husband’s words.				
+8	Telugu	14	main	pai	abbāi ā ālōcana pai utsāhapaḍḍ-āḍu.	young_boy.SG that idea.SG.OBL over get_excited.PST-3SG.M	The boy was excited by this idea.				
+8	Telugu	15	main	DAT	atanu ākali-ki balahīnaṁ paḍḍ-āḍu.	that_man.SG hunger.SG.OBL-DAT weak fall.PST-3SG.M	The man became weak ouf of hunger.				
+8	Telugu	15	alternate	valla	atanu ākali valla balahīnaṁ paḍḍ-āḍu.	that_man.SG hunger.SG.OBL by weak fall.PST-3SG.M	The man became weak due to hunger.				
+8	Telugu	16	main	DAT	atanu ākali-ki canipōy-āḍu.	that_man.SG hunger.SG.OBL-DAT pass_away.PST-3SG.M	The man died from hunger.				Alternative translation with the marker valla was characterized as grammatical, but very awkward.
+8	Telugu	17	main	DAT	atanu noppi-ki arus-tunn-āḍu.	that_man.SG pain.SG.OBL-DAT cry-PRS-3SG.M	The man screamed from the pain.				
+8	Telugu	18	main	DAT	āviḍa cali-ki vaṇuku-tuṁdi.	that_woman.SG cold.SG.OBL-DAT shiver-PRS.3SG.NM	The woman is shivering from the cold.				
+8	Telugu	19	main	DAT	pillavāḍu bhayāniki ēḍavaḍaṁ modalu peṭṭ-āḍu.	boy.SG fear.SG.DAT cry.VN start put.PST-3SG.M	The boy began to cry out of fear.				
+8	Telugu	19	alternate	to	pillavāḍu bhayaṁ tō ēḍavaḍaṁ modalu peṭṭ-āḍu.	boy.SG fear.SG.OBL with cry.VN start put.PST-3SG.M	The boy began to cry with fear.				
+8	Telugu	20	main	to	pillavāḍu ānandaṁ tō navv-āḍu.	boy.SG happiness.SG.OBL with laugh.PST-3SG.M	The boy laughed with joy.				Alternative translation with the markers DAT and valla are characterized as unnatural.
+8	Telugu	21	main	to	pillavāḍu bārn-lō bhayaṁ tō dacukunn-āḍu.	boy.SG barn.SG.OBL-LOC fear.SG.OBL with hide_oneself.PST-3SG.M	The child hid in the barn out of fear.				
+8	Telugu	21	alternate	DAT	pillavāḍu bārn-lō bhayāniki dacukunn-āḍu.	boy.SG barn.SG.OBL-LOC fear.SG.DAT hide_oneself.PST-3SG.M	The child hid in the barn due to fear.				
+8	Telugu	22	main	valla	atanu vinayaṁ valla šāntaṁ-gā unn-āḍu.	that_man.SG complaisance.SG.OBL by peace.SG-ADVZ be.PRS-3SG.M	The man kept silent due to complaisance.				
+8	Telugu	23	main	to	āviḍa tana tammuḍi cēyi-ni bhayaṁ tō paṭṭuku-ṁdi.	that_woman.SG REFL.POSS younger_brother.SG.OBL hand.SG.OBL-ACC fear.SG.OBL with seize.PST-3SG.NM	The woman grabbed her younger brother’s hand out of fear.				
+8	Telugu	24	main	valla	āviḍa pani valla alasipōyi-ṁdi.	that_woman.SG work.SG.OBL by get_tired.PST-3SG.NM	The woman is tired from work.				
+8	Telugu	25	main	valla	āviḍa dōma-la valla nidrapō-lēdu.	that_woman.SG mosquito-PL.OBL by sleep-NEG.PST	The woman didn’t fall asleep due to mosquitoes.				
+8	Telugu	25	alternate	karanamga	āviḍa dōma-la kāraṇaṁgā nidrapō-lēdu.	that_woman.SG mosquito-PL.OBL because_of sleep-NEG.PST	The woman didn't fall asleep because of mosquitoes.				
+8	Telugu	26	main	valla	nīḷḷu caṁdruni valla prakāšis-tunn-āyi.	water(PL) moon.SG.OBL by shine-PRS-3PL.N	The water is shining due to the moon.				
+8	Telugu	26	alternate	karanamga	nīḷḷu caṁdruni kāraṇaṁgā prakašis-tunn-āyi.	water(PL) moon.SG.OBL because_of shine-PRS-3PL.N	The water is shining because of the moon.				
+8	Telugu	27	main	valla	atani kukka valla atani-ki maṁci vēṭa ayi-ṁdi.	that_man.SG.OBL dog.SG.OBL by that_man.SG.OBL-DAT good hunt.SG become.PST-3SG.NM	Due to his dog, the man had a good hunt.				
+8	Telugu	28	main	pai	bhārya tana bharta pai kōppaḍi-ṁdi	wife.SG REFL.POSS husband.SG over get_angry.PST-3SG.NM	The wife got angry at her husband.				
+8	Telugu	29	main	valla	āviḍa tana bharta valla pani-ki ālasyaṁ ayi-ṁdi.	that_woman.SG REFL.POSS husband.SG.OBL by work.SG.OBL-DAT delay.SG become.PST-3SG.NM	The woman was late for work because of her husband.				
+8	Telugu	30	main	valla	jana-lu bhūkaṁpaṁ valla canipōy-āru.	people-PL earthquake.SG.OBL by pass_away.PST-3PL.EPIC	The people died because of the earthquake.				
+8	Telugu	30	alternate	karanamga	jana-lu bhūkaṁpaṁ kāraṇaṁgā canipōy-āru.	people-PL earthquake.SG because_of pass_away.PST-3PL.EPIC	The people died because of the earthquake.				
+8	Telugu	31	main	valla	anni duradr̥ṣṭa-lu manuṣu-la vall=ē jarugu-t-āyi.	all.N disaster-PL man-PL.OBL by=EMPH happen-FUT/HAB-3PL.N	All misfortunes only happen because of humans.				
+8	Telugu	32	main	valla	atanu operēšn valla sariggā cuḍagalugu-tunn-āḍu.	that_man.SG operation.SG.OBL by well see.ABIL-PRS-3SG.M	The man is able to see well due to the operation.				
+8	Telugu	33	main	valla	āviḍa atani vall=ē bratiki uṁdi.	that_woman.SG that_man.SG.OBL by=EMPH live.CVB.PFV be.PRS.3SG.NM	The woman is only alive due to that man.				
+8	Telugu	34	main	n.a.	atanu atani bhārya-ku dāni guriṁci telivitakkuva-gā cepp-āḍu.	that_man.SG that_man.SG.OBL wife.SG.OBL-DAT that.OBL about foolish-ADVZ say.PST-3SG.M	The man stupidly told his wife about it.			This translation is not included in the database because the causing event is expressed as an adverb, not a nominal phrase.	
+8	Telugu	34	alternate	valla	atanu atani bhārya-ku telivitakkuvatanaṁ valla dāni guriṁci cepp-āḍu.	that_man.SG that_man.SG.OBL wife.SG.OBL-DAT foolishness.SG.OBL by that.OBL about say.PST-3SG.M	The man told his wife about it because of stupidity.				
+8	Telugu	34	alternate	to	atanu atani bhārya-ku telivitakkuvatanaṁ tō dāni guriṁci cepp-āḍu.	that_man.SG that_man.SG.OBL wife.SG.OBL-DAT foolishness.OBL with that.OBL about say.PST-3SG.M	The man told his wife about it by stupidity.				
+8	Telugu	35	main	valla	āviḍa ajāgratta valla jāripaḍi-ṁdi.	that_woman.SG carelessness.SG.OBL by slip_off.PST-3SG.NM	The woman slipped because of carelessness.				
+8	Telugu	36	main	to	paileṭ vimānānni atani anubhāvaṁ tō diṁcagalig-āḍu.	pilot.SG plane.SG.ACC that_man.SG.OBL experience.SG.OBL with put_down.ABIL.PST-3SG.M	The pilot was able to land the plane due to his experience.				
+8	Telugu	37	main	valla	paileṭ vimānānni asamarthatā valla diṁcalēkapōy-āḍu.	pilot.SG plane.SG.ACC incompetence.SG.OBL by put_down.INAB.PST-3SG.M	The pilot could not land the plane due to incompetence.				
+8	Telugu	38	main	to	yuddhaṁ samayaṁ-lō manuṣu-lu ākali tō gaḍḍi tinn-āru.	war.SG time.SG.OBL-LOC man-PL hunger.SG.OBL with grass.SG eat.PST-3PL.EPIC	In the time of war, people ate grass out of hunger.				
+8	Telugu	39	main	to	āviḍa kutūhalaṁ tō lōpali-ki veḷḷi-ṁdi.	that_woman.SG interest.SG.OBL with inside.OBL-DAT go.PST-3SG.NM	The woman went inside out of interest.				
+8	Telugu	40	main	to	atanu atani bhārya-ni īrṣya tō caṁp-āḍu.	that_man.SG that_man.SG.OBL wife.SG.OBL-ACC jealousy.SG.OBL with kill.PST-3SG.M	The man killed his wife out of jealousy.				
+8	Telugu	41	main	to	atanu ḍābu tō dāni guriṁci aṁdari-ki cepp-āḍu.	that_man.SG ostentation.SG.OBL with that.OBL about all.EPIC.OBL-DAT say.PST-3SG.M	The man told everyone about it out of ostentation.				
+8	Telugu	42	main	LOC	āviḍa kōpaṁ-lō anni ginne-la-nu viraggoṭṭi-ṁdi.	that_woman.SG anger.SG.OBL-LOC all.N cup-PL.OBL-ACC destroy.PST-3SG.NM	The woman broke all the dishes in anger.				
+8	Telugu	42	alternate	to	āviḍa kōpaṁ tō anni ginne-la-nu viraggoṭṭi-ṁdi.	that_woman.SG anger.SG.OBL with all.N cup-PL.OBL-ACC destroy.PST-3SG.NM	The woman broke all the dishes out of anger.				
+8	Telugu	43	main	karanamga	āviḍa cali kāraṇaṁgā baṭṭa-la tō nidrapōyi-ṁdi.	that_woman.SG cold.SG because_of cloth-PL.OBL with sleep.PST-3SG.NM	The woman went to sleep dressed because of he cold.				
+8	Telugu	44	main	valla	paṁtulu atani šiṣyuḍi-ni ataḍi baṭṭa-lu valla pogiḍ-āḍu.	teacher.SG that_man.SG.OBL student.SG.OBL-ACC that_man.SG.OBL cloth-PL by commend.PST-3SG.M	The teacher commended the student for his clothes.				
+8	Telugu	45	main	valla	atanu atani pakkinṭivāḍi-ni atani māṭa-la valla caṁp-āḍu.	that_man.SG that_man.SG.OBL neighbour.SG.OBL-ACC that_man.SG.OBL word-PL.OBL by kill.PST-3SG.M	The man killed his neighbor because of his words.				
+8	Telugu	45	alternate	mida	atanu atani pakkinṭivāḍi-ni atani māṭa-la mīda caṁp-āḍu.	that_man.SG that_man.SG.OBL neighbour.OBL-ACC that_man.SG.OBL word-PL.OBL on kill.PST-3SG.M	The man killed his neighbor on <the account of> his words.				
+8	Telugu	45	alternate	pai	atanu atani pakkinṭivāḍi-ni atani māṭa-la pai caṁp-āḍu.	that_man.SG that_man.SG.OBL neighbour.OBL-ACC that_man.SG.OBL word-PL.OBL over kill.PST-3SG.M	The man killed his neighbor on <hearing> his words.				
+8	Telugu	46	main	pai	pilla-lu banti pai goḍavapaḍḍ-āru.	child-PL ball.SG.OBL over quarrel.PST-3PL.EPIC	The children fought over the ball.				
+8	Telugu	46	alternate	kosam	pilla-lu banti kōsam goḍavapaḍḍ-āru.	child-PL ball.SG.OBL for quarrel.PST-3PL.EPIC	The children fought for the ball.				
+8	Telugu	47	main	pai	atanu atani tammuḍi tō vārasatvaṁ pai vādiṁc-āḍu.	that_man.SG that_man.SG.OBL younger_brother.SG.OBL with heritage.SG.OBL over argue.PST-3SG.M	The man argued with his younger brother over the inheritance.				
+8	Telugu	47	alternate	kosam	atanu atani tammuḍi tō vārasatvaṁ kōsam vādiṁc-āḍu.	that_man.SG that_man.SG.OBL younger_brother.SG.OBL with heritage.SG.OBL for argue.PST-3SG.M	The man argued with his brother for the inheritance.				
+8	Telugu	48	main	kosam	āviḍa ā pustakānni bomma-la kōsaṁ koni-ṁdi.	that_woman.SG that book.SG.ACC picture-PL.OBL for take.PST-3SG.NM	The woman bought the book for its pictures.				
+8	Telugu	49	main	valla	āviḍa tana mitruni tō tana ceḍu mūḍ valla plān-la-ni raddu cēsi-ṁdi.  	that_woman.SG REFL.POSS friend.SG.OBL with REFL.POSS bad mood.SG.OBL by plan-PL.OBL-ACC cancel do.PST-3SG.NM	The woman canceled plans with her friend because of her bad mood.				
+8	Telugu	50	main	ACC_batti_custe	gunta-la-ni baṭṭi cūs-tē ninna rātri vāna paḍi-ṁdi.	pool-PL.OBL-ACC judging_by see-COND yesterday night.SG rain.SG fall.PST-3SG.NM	Judging by the puddles, it rained last night.				In this translation the converb is grammaticalized.
+8	Telugu	51	main	ACC_batti_custe	buḍaga-la-ni baṭṭi cūs-tē nīḷḷu masulu-tunn-āyi.	bubble-PL.OBL-ACC judging_by see-COND water(PL) boil-PRS-3PL.N	Judging by the bubbles, the water is boiling.				The marker -baṭṭi can be used independently in the sense 'based on'.
+8	Telugu	52	main	n.a.	iṁṭi lōpali-ki rā, calla-gā uṁdi.	house.SG.OBL inside.OBL-DAT come.IMP, cold-ADVZ be.PRS.3SG.NM	Come into the house, it is cold.			This translation is not included in the database because the expression correspoṁding to the causing event is not a syntactic dependent of the expression correspoṁding to the caused event. 	
+8	Telugu	53	main	n.a.	nā sveṭar ekkaḍ' uṁdi? cali-gā uṁdi.	my sweater.SG where be.PRS.3SG.NM? cold.SG-ADVZ be.PRS.3SG.NM	Where is my sweater? There is cold.			This translation is not included in the database because the expression correspoṁding to the causing event is not a syntactic dependent of the expression correspoṁding to the caused event. 	
+8	Telugu	54	main	prakaram	gaṇitašāstraṁ prakāraṁ, ī saṁkhya okaṭi kaṁṭē takkuva uṇḍa-kūḍadu.	mathematics.SG according_to, this number.SG one than inferior be-PROH	According to the mathematical law, this number cannot be less than one.				

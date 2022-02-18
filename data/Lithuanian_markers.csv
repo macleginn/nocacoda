@@ -1,0 +1,11 @@
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+7	Lithuanian	ant_GEN	adposition	no	yes	no	yes	no	no	n.a.	n.a.
+7	Lithuanian	del_GEN	adposition	yes	no	no	no	no	no	no	n.a.
+7	Lithuanian	GEN_deka	adposition	yes	no	no	no	no	no	no	n.a.
+7	Lithuanian	INS	affix	no	no	yes	no	no	no	n.a.	n.a.
+7	Lithuanian	is_GEN	adposition	yes	no	no	no	no	yes	n.a.	n.a.
+7	Lithuanian	nuo_GEN	adposition	yes	no	no	no	no	yes	n.a.	n.a.
+7	Lithuanian	pagal_ACC	adposition	no	no	yes	no	no	no	n.a.	n.a.
+7	Lithuanian	per_ACC	adposition	yes	no	yes	no	no	no	n.a.	n.a.
+7	Lithuanian	po_GEN	adposition	no	no	no	no	no	yes	n.a.	n.a.
+7	Lithuanian	uz_ACC	adposition	yes	no	no	no	no	no	yes	instead of; standard of comparison
