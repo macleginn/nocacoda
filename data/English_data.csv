@@ -1,0 +1,63 @@
+language_no	language_name	stimulus_no	status	causal_marker	sentence	glosses_en	back_translation_en	glosses_ru	back_translation_ru	comments	comments_informal
+1	English	1	main	from	The handerchief got soaked from tears.		The handerchief got soaked from tears.		Платок намок от слез.		
+1	English	2	main	from	The branch broke from the weight.		The branch broke from the weight.		Ветка сломалась от тяжести.		
+1	English	3	main	because_of	The woman is coughing because of the smoke.		The woman is coughing because of the smoke.		Женщина кашляет от дыма.		
+1	English	4	main	because_of	We can’t see the shore because of the darkness.		We can’t see the shore because of the darkness.		Мы не видим берег из-за темноты.		
+1	English	5	main	by	The man was arrested by mistake. 		The man was arrested by mistake. 		Мужчину арестовали по ошибке.		
+1	English	6	main	because_of	The tree fell because of the wind.		The tree fell because of the wind.		Дерево упало от ветра.	This option is preferred over the alternative with due to by the transtator.	CD. I did not try to indicate that any option was to be preferred but was trying to show that a few prepositions can be used. Just for reader’s preference. I personally prefer the option with because of, but the other one is perfectly valid.
+1	English	6	alternate	due_to	The tree fell due to the wind.		The tree fell due to the wind.		Дерево упало от ветра.	This option is less preferable than the translation with because of.	
+1	English	7	main	from	The man died from electric shock.		The man died from electric shock.		Мужчина погиб от удара тока.		
+1	English	8	main	from	The woman woke up from the noise.		The woman woke up from the noise.		Женщина проснулась от шума.	This translation is rated the same as the alternative.	CD. Equally good
+1	English	8	alternate	by	The woman was woken up by the noise.		The woman was woken up by the noise.		Женщина проснулась от шума.	This translation is rated the same as the alternative.	
+1	English	9	main	from	The man has a headache from the beer.		The man has a headache from the beer.		У мужчины от пива болит голова.		
+1	English	10	main	at	The woman laughed at the puppy. 		The woman laughed at the puppy. 		Женщина рассмеялась из-за щенка.		
+1	English	11	main	from	The man died from a poisonous fish.		The man died from a poisonous fish.		Мужчина умер от ядовитой рыбы.		
+1	English	12	main	with	The girl is satisfied with her grade.		The girl is satisfied with her grade.		Девочка удовлетворена своей оценкой.		
+1	English	13	main	by	The wife was angered by her husband’s words.		The wife was angered by her husband’s words.		Жена разозлилась на слова мужа.		
+1	English	14	main	by	The boy was thrilled by this idea.		The boy was thrilled by this idea.		Мальчик в восторге от этой идеи.		
+1	English	15	main	by	The man was weakened by hunger.		The man was weakened by hunger.		Мужчина ослабел от голода.		
+1	English	16	main	of	The man died of starvation.		The man died of starvation.		Мужчина умер от голода.		
+1	English	17	main	from	The man screamed from the pain.		The man screamed from the pain.		Мужчина кричал от боли.		
+1	English	18	main	from	The woman is shivering from the cold.		The woman is shivering from the cold.		Женщина дрожит от холода.		
+1	English	19	main	out_of	The child began to cry out of fear.		The child began to cry out of fear.		Ребенок начал плакать от страха.		
+1	English	20	main	with	The child laughed with joy.		The child laughed with joy.		Ребенок рассмеялся от радости.		
+1	English	21	main	out_of	The child hid in the barn out of fear.		The child hid in the barn out of fear.		Ребенок от страха спрятался в сарае.		
+1	English	22	main	out_of	The man kept silent out of modesty.		The man kept silent out of modesty.		Мужчина по скромности промолчал.		
+1	English	23	main	in	The woman grabbed her brother’s hand in fear.		The woman grabbed her brother’s hand in fear.		Женщина в страхе схватила брата за руку.		
+1	English	23	alternate	out_of	The woman grabbed her brother’s hand out of fear.		The woman grabbed her brother’s hand out of fear.		Женщина от страха схватила брата за руку.		
+1	English	24	main	from	The woman is tired from work.		The woman is tired from work.		Женщина устала от работы.		
+1	English	25	main	because_of	The woman can’t fall asleep because of the mosquitoes.		The woman can’t fall asleep because of the mosquitoes.		Женщина не может заснуть из-за комаров.		
+1	English	26	main	because_of	The water looks bright because of the moon.		The water looks bright because of the moon.		Вода кажется светлой из-за луны.		
+1	English	27	main	thanks_to	Thanks to his dog, the man had a successful hunt.		Thanks to his dog, the man had a successful hunt.		Благодаря собаке мужчина удачно сходил на охоту.		
+1	English	27	alternate	thanks_to	The man had a successful hunt, thanks to his dog.		The man had a successful hunt, thanks to his dog.		Мужчина удачно сходил на охоту благодаря собаке.		
+1	English	28	main	at	The wife was angry at her husband.		The wife was angry at her husband.		Жена рассердилась на мужа.		
+1	English	29	main	because_of	The woman was late for work because of her husband.		The woman was late for work because of her husband.		Женщина опоздала на работу из-за мужа.		
+1	English	30	main	because_of	The people died because of the earthquake.		The people died because of the earthquake.		Люди погибли из-за землетрясения.		
+1	English	31	main	because_of	All misfortunes happen because of humans/people.		All misfortunes happen because of humans/people.		Все беды происходят из-за человека/людей.		
+1	English	32	main	thanks_to	The man can see better now thanks to the operation.		The man can see better now thanks to the operation.		Мужчина теперь может лучше видеть благодаря операции.		
+1	English	33	main	thanks_to	The woman is alive thanks to that man.		The woman is alive thanks to that man.		Женщина жива благодаря этому мужчине.		
+1	English	34	main	out_of	The man told his wife about it out of stupidity.		The man told his wife about it out of stupidity.		Мужчина рассказал об этом жене по глупости.		
+1	English	35	main	because_of	The woman slipped because of carelessness.		The woman slipped because of carelessness.		Женщина поскользнулась по неосторожности.		
+1	English	36	main	thanks_to	The pilot was able to land the plane thanks to his experience.		The pilot was able to land the plane thanks to his experience.		Пилот смог посадить самолет благодаря своему опыту.		
+1	English	37	main	due_to	The pilot couldn’t land the plane due to inexperience.		The pilot couldn’t land the plane due to inexperience.		Пилот не смог посадить самолет из-за неопытности.		
+1	English	38	main	out_of	In wartime, people ate grass out of hunger.		In wartime, people ate grass out of hunger.		Во время войны люди с голода ели траву.		
+1	English	38	alternate	due_to	In wartime, people ate grass due to hunger.		In wartime, people ate grass due to hunger.		Во время войны люди с голода ели траву.		
+1	English	39	main	out_of	The woman went inside out of curiosity.		The woman went inside out of curiosity.		Женщина зашла внутрь из любопытства.		
+1	English	40	main	out_of	The man killed his wife out of jealousy.		The man killed his wife out of jealousy.		Мужчина убил жену из ревности.		
+1	English	41	main	out_of	The man told everyone about it out of vanity.		The man told everyone about it out of vanity.		Мужчина всем об этом рассказал из тщеславия.		
+1	English	42	main	out_of	The woman broke all the dishes out of anger.		The woman broke all the dishes out of anger.		Женщина разбила всю посуду от злости.		
+1	English	43	main	because_of	The woman went to sleep clothed because of the cold.		The woman went to sleep clothed because of the cold.		Женщина легла спать одетой из-за холода.	This translation is less formal than the one with due to.	CD: “Not really much of a difference, either option is fine”. And then “The option with because of is, in my opinion, preferable, as “because” is going to be more colloquial/used in conversational speech more often. Also if speakers are going to translate these, then it is going to be better to use this option as well, since the preposition will likely be a more widely understood form.”
+1	English	43	alternate	due_to	The woman went to sleep clothed due to the cold.		The woman went to sleep clothed due to the cold.		Женщина легла спать одетой из-за холода.	This translation is more formal than the one with because of.	
+1	English	44	main	for	The teacher commended the student for his suit.		The teacher commended the student for his suit.		Учитель похвалил ученика за его костюм.		
+1	English	45	main	because_of	The man killed his neighbor because of his words.		The man killed his neighbor because of his words.		Мужчина убил соседа за его слова.		
+1	English	45	alternate	because_of	The man killed his neighbor because of what he said.		The man killed his neighbor because of what he said.		Мужчина убил соседа за то, что тот сказал.		
+1	English	46	main	over	The children fought over the ball.		The children fought over the ball.		Дети подрались из-за мяча.		
+1	English	47	main	over	The man argued with his brother over the inheritance.		The man argued with his brother over the inheritance.		Мужчина поссорился с братом из-за наследства.		
+1	English	48	main	because_of	The woman bought the book because of the pictures.		The woman bought the book because of the pictures.		Женщина купила книгу из-за картинок.		
+1	English	49	main	because_of	The woman canceled plans with her friend because of her bad mood.		The woman canceled plans with her friend because of her bad mood.		Женщина отменила встречу с подругой из-за плохого настроения.		
+1	English	50	main	judging_by	Judging by the puddles, it rained last night.		Judging by the puddles, it rained last night.		Судя по лужам, ночью шел дождь.		
+1	English	51	main	judging_by	Judging by the bubbles, the water is boiling.		Judging by the bubbles, the water is boiling.		Судя по пузырькам, вода уже закипела.		
+1	English	52	main	n.a.						The intended meaning cannot be expressed in a single sentence.	
+1	English	53	main	n.a.						The intended meaning cannot be expressed in a single sentence.	
+1	English	54	main	per	Per mathematical law, this number cannot be less than one.		Per mathematical law, this number cannot be less than one.		Это число не может быть меньше единицы в силу математических законов.		
+1	English	54	alternate	per	This number cannot be less than one, per mathematical law.		This number cannot be less than one, per mathematical law.		Это число не может быть меньше единицы в силу математических законов.		
