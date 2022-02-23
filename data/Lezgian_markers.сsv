@@ -1,0 +1,11 @@
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+19	Lezgian	INEL	affix	yes	no	yes	no	no	yes	n.a.	
+19	Lezgian	kiligna_DAT	adposition	yes	no	yes	no	no	no	n.a.	
+19	Lezgian	SRDIR	affix	yes	no	no	no	no	no	no	
+19	Lezgian	SREL	affix	yes	no	yes	no	no	yes	n.a.	
+19	Lezgian	SBDIR	affix	yes	no	no	no	no	no	no	
+19	Lezgian	SRESS	affix	yes	yes	yes	yes	no	no	n.a.	
+19	Lezgian	SBEL	affix	no	no	no	no	yes	yes	n.a.	
+19	Lezgian	gilaj_GEN	adposition	yes	no	no	no	no	no	no	
+19	Lezgian	ADESS	affix	no	no	no	yes	no	no	n.a.	
+19	Lezgian	DAT	affix	yes	yes	no	no	no	no	n.a.	

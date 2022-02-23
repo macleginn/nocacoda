@@ -1,13 +1,13 @@
 language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
-8	Guro	le_wi_ma	postposition	yes	yes	no	no	no	no	no	n.a.
-8	Guro	lee	postposition	yes	no	no	no	no	no	yes	possession
-8	Guro	wii	postposition	yes	no	no	no	no	no	no	
-8	Guro	nya	postposition	yes	no	yes	no	no	no	yes	material, comitative, temporal
-8	Guro	ma	postposition	yes	yes	no	yes	no	yes	n.a.	
-8	Guro	pa_ji_nya	postposition	yes	no	no	no	no	no	no	
-8	Guro	zuo	postposition	no	yes	no	yes	no	yes	yes	temporal
-8	Guro	yalama	postposition	yes	no	no	no	no	no	no	
-8	Guro	va	postposition	no	yes	no	yes	no	yes	yes	temporal
-8	Guro	wi_ma	postposition	yes	no	no	no	no	no	no	
-8	Guro	le_wi_ta	postposition	yes	no	no	no	no	no	no	
-8	Guro	pai	postposition	yes	no	no	no	no	no	yes	oblique agent
+8	Guro	le_wi_ma	adposition	yes	yes	no	no	no	no	n.a.	
+8	Guro	lee	adposition	yes	no	no	no	no	no	yes	possession
+8	Guro	wii	adposition	yes	no	no	no	no	no	no	
+8	Guro	nya	adposition	yes	no	yes	no	no	no	n.a.	
+8	Guro	ma	adposition	yes	yes	no	yes	no	yes	n.a.	
+8	Guro	pa_ji_nya	adposition	yes	no	no	no	no	no	no	
+8	Guro	zuo	adposition	no	yes	no	yes	no	yes	n.a.	
+8	Guro	yalama	adposition	yes	no	no	no	no	no	no	
+8	Guro	va	adposition	no	yes	no	yes	no	yes	n.a.	
+8	Guro	wi_ma	adposition	yes	no	no	no	no	no	no	
+8	Guro	le_wi_ta	adposition	yes	no	no	no	no	no	no	
+8	Guro	pai	adposition	yes	no	no	no	no	no	yes	oblique agent
