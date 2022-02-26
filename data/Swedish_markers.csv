@@ -6,4 +6,4 @@ language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	i
 18	Swedish	om	adposition	no	no	no	no	yes	no	n.a.	n.a.
 18	Swedish	pa	adposition	no	yes	no	yes	no	no	n.a.	n.a.
 18	Swedish	pa_grund_av	adposition	yes	no	no	no	no	no	no	n.a.
-18	Swedish	tack_vare	adposition	yes	no	no	no	no	no	n	n.a.
+18	Swedish	tack_vare	adposition	yes	no	no	no	no	no	no	n.a.
