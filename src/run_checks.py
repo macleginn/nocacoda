@@ -96,14 +96,12 @@ for lang_file in lang_files:
 # В файлах типа languagename_data в каждой строке, где в столбце “causal marker” стоит “n.a.”,
 # в столбце “comments” должно быть что-то написано
 for lang_file in lang_files:
-    # TODO: remove
-    break
-    # TODO: ends
     lang_df = pd.read_csv(lang_file, sep='\t', encoding='utf-8')
     for comment, causal_marker in zip(lang_df.comments, lang_df.causal_marker):
-        if causal_marker == 'n.a.' and comment == '' or pd.isnull(comment):
+        if causal_marker == 'n.a.' and (comment == '' or pd.isnull(comment)):
             print(
                 f"В файле {lang_file} в столбце в строке с causal_marker = 'n.a.' нет комментария.")
+            break
 
 # В файлах типа languagename_data если в столбце causal_marker стоит что-то, кроме n.a.,
 # то в этой строке должно что-то быть в столбцах “sentence”, “glosses_en” и “back_translation”;
