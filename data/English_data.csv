@@ -29,7 +29,6 @@ language_no	language_name	stimulus_no	status	causal_marker	sentence	glosses_en	b
 1	English	25	main	because_of	The woman can’t fall asleep because of the mosquitoes.		The woman can’t fall asleep because of the mosquitoes.		Женщина не может заснуть из-за комаров.		
 1	English	26	main	because_of	The water looks bright because of the moon.		The water looks bright because of the moon.		Вода кажется светлой из-за луны.		
 1	English	27	main	thanks_to	Thanks to his dog, the man had a successful hunt.		Thanks to his dog, the man had a successful hunt.		Благодаря собаке мужчина удачно сходил на охоту.		
-1	English	27	alternate	thanks_to	The man had a successful hunt, thanks to his dog.		The man had a successful hunt, thanks to his dog.		Мужчина удачно сходил на охоту благодаря собаке.		
 1	English	28	main	at	The wife was angry at her husband.		The wife was angry at her husband.		Жена рассердилась на мужа.		
 1	English	29	main	because_of	The woman was late for work because of her husband.		The woman was late for work because of her husband.		Женщина опоздала на работу из-за мужа.		
 1	English	30	main	because_of	The people died because of the earthquake.		The people died because of the earthquake.		Люди погибли из-за землетрясения.		
@@ -50,7 +49,6 @@ language_no	language_name	stimulus_no	status	causal_marker	sentence	glosses_en	b
 1	English	43	alternate	due_to	The woman went to sleep clothed due to the cold.		The woman went to sleep clothed due to the cold.		Женщина легла спать одетой из-за холода.	This translation is more formal than the one with because of.	
 1	English	44	main	for	The teacher commended the student for his suit.		The teacher commended the student for his suit.		Учитель похвалил ученика за его костюм.		
 1	English	45	main	because_of	The man killed his neighbor because of his words.		The man killed his neighbor because of his words.		Мужчина убил соседа за его слова.		
-1	English	45	alternate	because_of	The man killed his neighbor because of what he said.		The man killed his neighbor because of what he said.		Мужчина убил соседа за то, что тот сказал.		
 1	English	46	main	over	The children fought over the ball.		The children fought over the ball.		Дети подрались из-за мяча.		
 1	English	47	main	over	The man argued with his brother over the inheritance.		The man argued with his brother over the inheritance.		Мужчина поссорился с братом из-за наследства.		
 1	English	48	main	because_of	The woman bought the book because of the pictures.		The woman bought the book because of the pictures.		Женщина купила книгу из-за картинок.		
@@ -60,4 +58,3 @@ language_no	language_name	stimulus_no	status	causal_marker	sentence	glosses_en	b
 1	English	52	main	n.a.						The intended meaning cannot be expressed in a single sentence.	
 1	English	53	main	n.a.						The intended meaning cannot be expressed in a single sentence.	
 1	English	54	main	per	Per mathematical law, this number cannot be less than one.		Per mathematical law, this number cannot be less than one.		Это число не может быть меньше единицы в силу математических законов.		
-1	English	54	alternate	per	This number cannot be less than one, per mathematical law.		This number cannot be less than one, per mathematical law.		Это число не может быть меньше единицы в силу математических законов.		
