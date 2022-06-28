@@ -4,6 +4,7 @@ language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	i
 24	Polish	na_ACC	adposition	no	yes	no	no	no	no	n.a.	n.a.
 24	Polish	o_ACC	adposition	no	yes	no	no	yes	no	n.a.	n.a.
 24	Polish	od_GEN	adposition	yes	no	no	no	no	yes	n.a.	n.a.
+24	Polish	pod_INS	adposition	no	no	no	yes	no	no	n.a.	n.a.
 24	Polish	przez_ACC	adposition	yes	no	yes	no	no	no	n.a.	n.a.
 24	Polish	sadzac_po_LOC	adposition	yes	no	no	no	no	no	no	n.a.
 24	Polish	w_LOC	adposition	no	no	no	yes	no	no	n.a.	n.a.
