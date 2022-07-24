@@ -1,0 +1,10 @@
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+25	Spanish	por	adposition	yes	yes	yes	no	no	no	yes	agent in passive construction
+25	Spanish	de	adposition	yes	no	no	no	yes	yes	yes	posession
+25	Spanish	con	adposition	yes	yes	yes	no	no	no	yes	despite
+25	Spanish	gracias_a	adposition	yes	no	no	no	no	no	no	n.a.
+25	Spanish	debido_a	adposition	yes	no	no	no	no	no	no	n.a.
+25	Spanish	por_culpa_de	adposition	yes	no	no	no	no	no	no	n.a.
+25	Spanish	sobre	adposition	yes	yes	no	yes	yes	no	n.a.	n.a.
+27	Spanish	a_causa_de	adposition	yes	no	no	no	no	no	no	n.a.
+28	Spanish	segun	adposition	yes	no	no	no	no	no	n	n.a.

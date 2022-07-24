@@ -1,0 +1,11 @@
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+30	Serbian	zbog_GEN	adposition	yes	no	no	no	no	no	no	n.a.
+30	Serbian	od_GEN	adposition	yes	no	no	no	no	yes	yes	property, material, possession, agent in passive construction
+30	Serbian	iz_GEN	adposition	yes	no	no	no	no	yes	n.a.	n.a.
+30	Serbian	INS	case	no	no	yes	no	no	no	n.a.	n.a.
+30	Serbian	zahvaljujuchi_DAT	adposition	yes	no	no	no	no	no	no	n.a.
+30	Serbian	DAT	case	no	yes	no	no	no	no	n.a.	n.a.
+30	Serbian	pod_INS	adposition	no	yes	no	yes	no	no	n.a.	n.a.
+30	Serbian	u_LOC	adposition	no	yes	no	yes	no	no	n.a.	n.a.
+30	Serbian	na_ACC	adposition	no	yes	no	yes	no	no	n.a.	n.a.
+30	Serbian	po_DAT	adposition	yes	no	yes	no	no	no	n.a.	n.a.
