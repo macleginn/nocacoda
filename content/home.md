@@ -11,7 +11,7 @@ These stimulus sentences capture various semantic subtypes of nominal causal con
 ## How to use NoCaCoDa
 
 You can browse NoCaCoDa by [stimulus sentence]({{ sentences }}) (e.g., in case you are interested in the ways indirect 
-external causes are encoded across languages) or by [language]({{ languages }}) (e.g., in case you are interested in the 
+external causes are encoded across languages) or by [language]({{ langlist }}) (e.g., in case you are interested in the 
 ways in which the nominal causal meaning is conveyed in a specific language). Besides, you can 
 [take an overview]({{ data_overview }}) of the data in your browser or search the whole database as an extended 
 [spreadsheet]({{ spreadsheet }}). In order to properly interpret the tags used in the database, you can consult 
