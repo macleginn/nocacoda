@@ -7,7 +7,7 @@ This questionnaire contains 54 stimulus sentences constructed for a typological 
 ### How to cite
 
 If you use this questionnaire, please make a reference to the following work:
-> Say, Sergey. In print. [Imennye pričinnye konsrukcii: parametry tipologičeskoj variativnosti i issledovatel’skaja anketa](Say_in_print_Imennye.pdf) [Nominal causal constructions: parameters of typological variability and a research questionnaire]. Natalia Zaika (ed.). *Tipologija pričinnyx konstrukcij*. St. Petersburg: ILI RAN. 
+> Say, Sergey. In print. [Imennye pričinnye konsrukcii: parametry tipologičeskoj variativnosti i issledovatel’skaja anketa](pdf/Say_in_print_Imennye.pdf) [Nominal causal constructions: parameters of typological variability and a research questionnaire]. Natalia Zaika (ed.). *Tipologija pričinnyx konstrukcij*. St. Petersburg: ILI RAN. 
 ### Questionnaire design
 
 The stimulus sentences in the questionnaire below are given consecutive numeric identifiers (1–54). For the sake of readability, causal noun phrases are given in square brackets, and the markers employed in the interlanguage (English or Russian) are given in angle brackets. Whenever necessary, stimulus sentences are provided with some external context given in curly brackets.
