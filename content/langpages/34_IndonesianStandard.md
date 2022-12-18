@@ -1,6 +1,6 @@
 ## Indonesian (Standard)
 
-Contributed by Ivan Netkachev. The data were gathered in 2022.
+Contributed by Netkachev, Ivan. The data were gathered in 2022.
 
 ### How to cite
 
