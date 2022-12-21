@@ -1,0 +1,12 @@
+language_number	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+27	Armenian (Eastern)	ABL	affix	yes	no	no	no	no	yes	n.a.	n.a.
+27	Armenian (Eastern)	ABL_datelov	adposition	yes	no	no	no	no	no	no	n.a.
+27	Armenian (Eastern)	ABL_elnelov	adposition	yes	no	no	no	no	no	no	n.a.
+27	Armenian (Eastern)	DAT_hamajayn	adposition	no	no	yes	no	no	no	n.a.	n.a.
+27	Armenian (Eastern)	DAT_snorhiv	adposition	yes	no	no	no	no	no	no	n.a.
+27	Armenian (Eastern)	GEN/DAT_hamar	adposition	yes	yes	no	no	yes	no	n.a.	n.a.
+27	Armenian (Eastern)	GEN_himan_vra	adposition	yes	no	no	no	no	no	no	n.a.
+27	Armenian (Eastern)	GEN_hogi_vra	adposition	yes	no	no	no	no	no	no	n.a.
+27	Armenian (Eastern)	GEN_patcarov	adposition	yes	no	no	no	no	no	no	n.a.
+27	Armenian (Eastern)	GEN_vra	adposition	no	yes	no	yes	yes	no	n.a.	n.a.
+27	Armenian (Eastern)	isnorhiv_DAT	adposition	yes	no	no	no	no	no	no	n.a.
