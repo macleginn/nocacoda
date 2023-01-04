@@ -1,4 +1,4 @@
-language_number	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
 21	Ukrainian	cerez_ACC	adposition	yes	no	yes	no	no	no	n.a.	n.a.
 21	Ukrainian	INS	adposition	yes	no	yes	no	no	no	n.a.	n.a.
 21	Ukrainian	na_ACC	adposition	no	yes	no	no	no	no	n.a.	n.a.
