@@ -1,0 +1,385 @@
+No
+sentence
+type
+obj/subj
+dir/indir
+inter/exter
+taxis
+1
+Платок намок <от> [слез].
+ontological
+objective
+direct
+external
+simultaneous
+2
+Ветка сломалась <от> [тяжести].
+ontological
+objective
+direct
+external
+simultaneous
+3
+Женщина кашляет <от> [дыма].
+ontological
+objective
+direct
+external
+simultaneous
+4
+Мы не видим берег <из-за> [темноты].
+ontological
+objective
+direct
+external
+simultaneous
+5
+Мужчину арестовали <по> [ошибке]. {Он однофамилец преступника}.
+ontological
+objective
+direct
+external
+n.a.
+6
+Дерево упало <от> [ветра].
+ontological
+objective
+direct
+external
+n.a.
+7
+Мужчина погиб <от> [удара тока] {сразу}.
+ontological
+objective
+direct
+external
+n.a.
+8
+Женщина проснулась <от> [шума].
+ontological
+objective
+direct
+external
+n.a.
+9
+У мужчины <от> [пива] болит голова.
+ontological
+objective
+direct
+external
+anterior
+10
+{Щенок смешно кувыркается} Женщина рассмеялась <?> [щенок].
+ontological
+objective
+direct
+external
+n.a.
+11
+Мужчина умер <от> [ядовитой рыбы] {через два дня после отравления}.
+ontological
+objective
+direct
+external
+anterior
+12
+Девочка довольна [своей оценкой].
+ontological
+objective
+direct
+external
+n.a.
+13
+{Мужчина сказал что-то плохое}. Жена рассердилась <на> [слова мужа].
+ontological
+objective
+direct
+external
+n.a.
+14
+Мальчик в восторге <от> [этой идеи] {папа предложил ему сходить на футбол}.
+ontological
+objective
+direct
+external
+n.a.
+15
+Мужчина ослабел <от> [голода].
+ontological
+objective
+direct
+internal
+simultaneous
+16
+Мужчина умер <от> [голода].
+ontological
+objective
+direct
+internal
+simultaneous
+17
+Мужчина кричит <от> [боли].
+ontological
+objective
+direct
+internal
+simultaneous
+18
+Женщина дрожит <от> [холода].
+ontological
+objective
+direct
+internal
+simultaneous
+19
+Ребенок заплакал <от> [страха].
+ontological
+objective
+direct
+internal
+simultaneous
+20
+Ребенок рассмеялся <от> [радости].
+ontological
+objective
+direct
+internal
+simultaneous
+21
+Ребенок <от> [страха] спрятался в сарае[1].
+ontological
+objective
+direct
+internal
+simultaneous
+22
+Мужчина <по> [скромности] промолчал.
+ontological
+objective
+direct
+internal
+simultaneous
+23
+Женщина <в> [страхе] схватила брата за руку.
+ontological
+objective
+direct
+internal
+simultaneous
+24
+Женщина устала <от> [работы].
+ontological
+objective
+direct
+internal
+anterior
+25
+Женщина не может заснуть <из-за> [комаров].
+ontological
+objective
+indirect
+external
+simultaneous
+26
+Вода кажется светлой <из-за> [луны].
+ontological
+objective
+indirect
+external
+simultaneous
+27
+Мужчина удачно сходил на охоту <благодаря> [собаке].
+ontological
+objective
+indirect
+external
+simultaneous
+28
+{Мужчина сказал что-то плохое}. Жена рассердилась <на> [мужа][2].
+ontological
+objective
+indirect
+external
+n.a.
+29
+Женщина опоздала на работу <из-за> [мужа] {он забыл дома ключи от машины}.
+ontological
+objective
+indirect
+external
+anterior
+30
+Люди погибли <из-за> [землетрясения] {шахтеры оказались заперты в шахте, и их не смогли спасти}.
+ontological
+objective
+indirect
+external
+anterior
+31
+Все беды происходят <из-за> [человека / людей].
+ontological
+objective
+indirect
+external
+n.a.
+32
+Мужчина стал лучше видеть <благодаря> [операции].
+ontological
+objective
+indirect
+external
+anterior
+33
+Женщина жива <благодаря> [этому мужчине] {он нашел ее, когда она заблудилась в лесу}.
+ontological
+objective
+indirect
+external
+anterior
+34
+Мужчина рассказал об этом жене <по> [глупости].[3]
+ontological
+objective
+indirect
+internal
+simultaneous
+35
+Женщина поскользнулась <по> [неосторожности].
+ontological
+objective
+indirect
+internal
+simultaneous
+36
+Пилот смог посадить самолет <благодаря> [большому опыту].
+ontological
+objective
+indirect
+internal
+anterior
+37
+Пилот не смог посадить самолет <из-за> [неопытности].
+ontological
+objective
+indirect
+internal
+n.a.
+38
+Во время войны люди <с> [голода] ели траву.
+ontological
+subjective
+direct
+internal
+simultaneous
+39
+Женщина зашла внутрь <из> [любопытства].
+ontological
+subjective
+direct
+internal
+simultaneous
+40
+Мужчина убил жену <из> [ревности].
+ontological
+subjective
+direct
+internal
+simultaneous
+41
+Мужчина всем об этом рассказал <из> [тщеславия].
+ontological
+subjective
+direct
+internal
+simultaneous
+42
+Женщина разбила всю посуду <от> [злости].
+ontological
+subjective
+direct
+internal
+simultaneous
+43
+Женщина легла спать одетой <из-за> [холода][4] {у нее сломалась печка}.
+ontological
+subjective
+indirect
+external
+simultaneous
+44
+Учитель похвалил ученика <за> [его костюм].
+ontological
+subjective
+indirect
+external
+n.a.
+45
+Мужчина побил соседа <за> [его слова].
+ontological
+subjective
+indirect
+external
+anterior
+46
+Дети подрались <из-за> [мяча].
+ontological
+subjective
+indirect
+external
+n.a.
+47
+Мужчина поссорился с братом <из-за> [наследства].
+ontological
+subjective
+indirect
+external
+n.a.
+48
+Женщина купила эту книгу <из-за> [рисунков].
+ontological
+subjective
+indirect
+external
+simultaneous
+49
+Женщина не стала встречаться с подругой <из-за> [плохого настроения].
+ontological
+subjective
+indirect
+internal
+simultaneous
+50
+<Судя по> [лужам], ночью шел дождь.
+epistemic
+n.a.
+n.a.
+n.a.
+n.a.
+51
+<Судя по> [пузырькам], вода уже закипела.
+epistemic
+n.a.
+n.a.
+n.a.
+n.a.
+52
+Заходи в дом <?> [холод].[1]
+illocutive
+n.a.
+n.a.
+n.a.
+n.a.
+53
+Где мой свитер <?> [холод]?
+illocutive
+n.a.
+n.a.
+n.a.
+n.a.
+54
+Это число не может быть меньше единицы <в силу> [математических законов].
+logical
+n.a.
+n.a.
+n.a.
+n.a.

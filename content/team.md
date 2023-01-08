@@ -20,36 +20,36 @@
 
 ### Technical team
 
-![D.N.'s photo]({{ site_url_j }}/images/mitya.jpg "D.N.'s photo")
+![D.N.'s photo](https://dnikolaev.com/images/mitya.jpg "D.N.'s photo")
 
 [Dmitry Nikolaev](https://dnikolaev.com) ([Academia.edu profile](https://su-se.academia.edu/DmitryNikolaev)): PhD, postdoc at the Institute for Natural Language Processing, University of Stuttgart
 
 ### Language contributors
 
-Daria Alfimova: {{ language:German }}
-Maria Cheremisinova, Elizaveta Zabelina: {{ language:Udmurt (South) }}
-Anna Daugavet: {{ language:Latvian }}
-Sergey Dmitrenko: {{ language:Khmer }}, {{ language:Thai }}
-Anastasia Dmitrieva: {{ language:Khanty (Northern) }}
-Emma Geniušienė: {{ language:Lithuanian }}
-Irina Gorbunova: {{ language:Karelian }}, {{ language:Khwarshi }}
-Maria Gvozdkova: {{ language:Albanian }}
-Elena Kordi, Elizaveta Zabelina: {{ language:French }}
-Artemii Kuznetsov: {{ language:Japanese }}
-Olga Kuznetsova: {{ language:Guro }}, {{ language:Norwegian (Bokmål) }}
-Natalia Logvinova: {{ language:English }}, {{ language:Assyrian Neo-Aramaic }}
-Ramazan Mamedshakhov: {{ language:Arabic }}, {{ language:Lezgian }}
-Diana Mikaelian, Maksim Fedotov: {{ language:Armenian (Eastern) }}
-Chiara Naccarato: {{ language:Italian }}
-Ivan Netkachev: {{ language:Indonesian (Standard) }}
-Anastasia Panova: {{ language:Eskimo (Central Siberian Yupik) }}
-Tatiana Repnina: {{ language:Catalan }}, {{ language:Spanish }}
-Roman Ronko: {{ language:Shughni }}
-Daria Ryzhova: {{ language:Serbian }}
-Sergey Say: {{ language:Russian }}, {{ language:Slovenian }}, {{ language:Polish }}
-Varvara Shuvalova: {{ language:Swedish }}
-Svetlana Toldova: {{ language:Moksha }}
-Alevtina Utkina: {{ language:Chinese (Mandarin) }}
-Elizaveta Zabelina: {{ language:Telugu }}, {{ language:Urdu }}
-Natalia Zaika: {{ language:Belarusian }}, {{ language:Chuvash (Maloe Karachkino) }}, {{ language:Ukrainian }}, {{ language:Basque }}
-Anastasia Zhuk: {{ language:Kazakh }}, {{ language:Uzbek }}
+* Daria Alfimova: [German]({{ site_url_j }}/langpages/German.html)
+* Maria Cheremisinova, Elizaveta Zabelina: [Udmurt (South)]({{ site_url_j }}/langpages/UdmurtSouth.html)
+* Anna Daugavet: [Latvian]({{ site_url_j }}/langpages/Latvian.html)
+* Sergey Dmitrenko: [Khmer]({{ site_url_j }}/langpages/Khmer.html), Thai
+* Anastasia Dmitrieva: Khanty (Northern)
+* Emma Geniušienė: [Lithuanian]({{ site_url_j }}/langpages/Lithuanian.html)
+* Irina Gorbunova: [Karelian]({{ site_url_j }}/langpages/Karelian.html), Khwarshi
+* Maria Gvozdkova: [Albanian]({{ site_url_j }}/langpages/Albanian.html)
+* Elena Kordi, Elizaveta Zabelina: [French]({{ site_url_j }}/langpages/French.html)
+* Artemii Kuznetsov: [Japanese]({{ site_url_j }}/langpages/Japanese.html)
+* Olga Kuznetsova: [Guro]({{ site_url_j }}/langpages/Guro.html), Norwegian (Bokmål)
+* Natalia Logvinova: [English]({{ site_url_j }}/langpages/English.html), [Assyrian Neo-Aramaic]({{ site_url_j }}/langpages/AssyrianNeo-Aramaic.html)
+* Ramazan Mamedshakhov: [Arabic]({{ site_url_j }}/langpages/Arabic.html), [Lezgian]({{ site_url_j }}/langpages/Lezgian.html)
+* Diana Mikaelian, Maksim Fedotov: [Armenian (Eastern)]({{ site_url_j }}/langpages/ArmenianEastern.html)
+* Chiara Naccarato: [Italian]({{ site_url_j }}/langpages/Italian.html)
+* Ivan Netkachev: [Indonesian (Standard)]({{ site_url_j }}/langpages/IndonesianStandard.html)
+* Anastasia Panova: [Eskimo (Central Siberian Yupik)]({{ site_url_j }}/langpages/EskimoCentralSiberianYupik.html)
+* Tatiana Repnina: [Catalan]({{ site_url_j }}/langpages/Catalan.html), [Spanish]({{ site_url_j }}/langpages/Spanish.html) 
+* Roman Ronko: [Shughni]({{ site_url_j }}/langpages/Shughni.html)
+* Daria Ryzhova: [Serbian]({{ site_url_j }}/langpages/Serbian.html)
+* Sergey Say: [Russian]({{ site_url_j }}/langpages/Russian.html), [Slovenian]({{ site_url_j }}/langpages/Slovenian.html), [Polish]({{ site_url_j }}/langpages/Polish.html)
+* Varvara Shuvalova: [Swedish]({{ site_url_j }}/langpages/Swedish.html)
+* Svetlana Toldova: Moskha
+* Alevtina Utkina: Chinese (Mandarin)
+* Elizaveta Zabelina: [Telugu]({{ site_url_j }}/langpages/Telugu.html), [Urdu]({{ site_url_j }}/langpages/Urdu.html)
+* Natalia Zaika: [Belarusian]({{ site_url_j }}/langpages/Belarusian.html), [Chuvash (Maloe Karachkino)]({{ site_url_j }}/langpages/ChuvashMaloeKarachkino.html), [Ukrainian]({{ site_url_j }}/langpages/Ukrainian.html), [Basque]({{ site_url_j }}/langpages/Basque.html)
+* Anastasia Zhuk: Kazakh, Uzbek

@@ -1,0 +1,385 @@
+No
+sentence
+type
+obj/subj
+dir/indir
+inter/exter
+taxis
+1
+The handkerchief got soaked <from> [tears].
+ontological
+objective
+direct
+external
+simultaneous
+2
+The branch broke <from> [the weight].
+ontological
+objective
+direct
+external
+simultaneous
+3
+The woman is coughing <because of> [the smoke].
+ontological
+objective
+direct
+external
+simultaneous
+4
+We can’t see the shore <because of> [the darkness].
+ontological
+objective
+direct
+external
+simultaneous
+5
+The man was arrested <by> [mistake]. {He has the same name as the criminal}.
+ontological
+objective
+direct
+external
+n.a.
+6
+The tree fell <due to> [the wind].
+ontological
+objective
+direct
+external
+n.a.
+7
+The man died <from> [electric shock] {immediately}.
+ontological
+objective
+direct
+external
+n.a.
+8
+The woman woke up <from> [the noise].
+ontological
+objective
+direct
+external
+n.a.
+9
+The man has a headache <from> [the beer].
+ontological
+objective
+direct
+external
+anterior
+10
+{The puppy tumbled over in a funny way}. The woman laughed <at> [the puppy].
+ontological
+objective
+direct
+external
+n.a.
+11
+The man died <from> [a poisonous fish] {2 days after poisoning}.
+ontological
+objective
+direct
+external
+anterior
+12
+The girl is satisfied <with> [her grade].
+ontological
+objective
+direct
+external
+n.a.
+13
+{The man said something bad}. The wife was angered <by> [her husband’s words].
+ontological
+objective
+direct
+external
+n.a.
+14
+The boy was thrilled <by> [this idea]. {His dad has suggested to go watch football}.
+ontological
+objective
+direct
+external
+n.a.
+15
+The man was weakened <by> [hunger].
+ontological
+objective
+direct
+internal
+simultaneous
+16
+The man died <of> [starvation].
+ontological
+objective
+direct
+internal
+simultaneous
+17
+The man is screaming <from> [the pain].
+ontological
+objective
+direct
+internal
+simultaneous
+18
+The woman is shivering <from> [the cold].
+ontological
+objective
+direct
+internal
+simultaneous
+19
+The child began to cry <out of> [fear].
+ontological
+objective
+direct
+internal
+simultaneous
+20
+The child laughed <with> [joy].
+ontological
+objective
+direct
+internal
+simultaneous
+21
+The child hid in the barn <out of> [fear].
+ontological
+objective
+direct
+internal
+simultaneous
+22
+The man kept silent <out of> [modesty].
+ontological
+objective
+direct
+internal
+simultaneous
+23
+The woman grabbed her brother’s hand <in> [fear].
+ontological
+objective
+direct
+internal
+simultaneous
+24
+The woman is tired <from> [work].
+ontological
+objective
+direct
+internal
+anterior
+25
+The woman can’t fall asleep <because of> [the mosquitoes].
+ontological
+objective
+indirect
+external
+simultaneous
+26
+The water looks bright <because of> [the moon].
+ontological
+objective
+indirect
+external
+simultaneous
+27
+<Thanks to> [his dog], the man had a successful hunt.
+ontological
+objective
+indirect
+external
+simultaneous
+28
+{The man said something bad}. The wife was angry <at> [her husband].
+ontological
+objective
+indirect
+external
+n.a.
+29
+The woman was late for work <because of> [her husband]. {He forgot his car keys at home}.
+ontological
+objective
+indirect
+external
+anterior
+30
+The people died <because of> [the earthquake]. {The miners were trapped in a mineshaft and could not be saved}.
+ontological
+objective
+indirect
+external
+anterior
+31
+All misfortunes happen <because of> [humans/people].
+ontological
+objective
+indirect
+external
+n.a.
+32
+The man can see better now <thanks to> [the operation].
+ontological
+objective
+indirect
+external
+anterior
+33
+The woman is alive <thanks to> [that man]. {He found her when she got lost in the forest}.
+ontological
+objective
+indirect
+external
+anterior
+34
+The man told his wife about it <out of> stupidity].
+ontological
+objective
+indirect
+internal
+simultaneous
+35
+The woman slipped <because of> [carelessness].
+ontological
+objective
+indirect
+internal
+simultaneous
+36
+The pilot was able to land the plane <thanks to> [his experience].
+ontological
+objective
+indirect
+internal
+anterior
+37
+The pilot could not land the plane <due to> [inexperience].
+ontological
+objective
+indirect
+internal
+n.a.
+38
+In wartime, people ate grass <out of> [hunger].
+ontological
+subjective
+direct
+internal
+simultaneous
+39
+The woman went inside <out of> [curiosity].
+ontological
+subjective
+direct
+internal
+simultaneous
+40
+The man killed his wife <out of> [jealousy].
+ontological
+subjective
+direct
+internal
+simultaneous
+41
+The man told everyone about it <out of> [vanity].
+ontological
+subjective
+direct
+internal
+simultaneous
+42
+The woman broke all the dishes <out of> [anger].
+ontological
+subjective
+direct
+internal
+simultaneous
+43
+The woman went to sleep clothed <because of> [the cold]. {Her furnace was broken}.
+ontological
+subjective
+indirect
+external
+simultaneous
+44
+The teacher commended the student <for> [his suit].
+ontological
+subjective
+indirect
+external
+n.a.
+45
+The man killed his neighbor <because of> [his words].
+ontological
+subjective
+indirect
+external
+anterior
+46
+The children fought <over> [the ball].
+ontological
+subjective
+indirect
+external
+n.a.
+47
+The man argued with his brother <over> [the inheritance].
+ontological
+subjective
+indirect
+external
+n.a.
+48
+The woman bought the book <because of> [the pictures].
+ontological
+subjective
+indirect
+external
+simultaneous
+49
+The woman canceled plans with her friend <because of> [her bad mood].
+ontological
+subjective
+indirect
+internal
+simultaneous
+50
+<Judging by> [the puddles], it rained last night.
+epistemic
+n.a.
+n.a.
+n.a.
+n.a.
+51
+<Judging by> [the bubbles], the water is boiling.
+epistemic
+n.a.
+n.a.
+n.a.
+n.a.
+52
+Come into the house, <?> [the cold].
+illocutive
+n.a.
+n.a.
+n.a.
+n.a.
+53
+Where is my sweater <?> [the cold].
+illocutive
+n.a.
+n.a.
+n.a.
+n.a.
+54
+<Per> [mathematical law], this number cannot be less than one.
+logical
+n.a.
+n.a.
+n.a.
+n.a.

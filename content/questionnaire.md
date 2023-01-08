@@ -38,783 +38,1015 @@ This parameter captures the relative position of the causing event and the cause
 
 (The Russian version of the questionnaire can be found below.)
 
-No
-sentence
-type
-obj/subj
-dir/indir
-inter/exter
-taxis
-1
-The handkerchief got soaked <from> [tears].
-ontological
-objective
-direct
-external
-simultaneous
-2
-The branch broke <from> [the weight].
-ontological
-objective
-direct
-external
-simultaneous
-3
-The woman is coughing <because of> [the smoke].
-ontological
-objective
-direct
-external
-simultaneous
-4
-We can’t see the shore <because of> [the darkness].
-ontological
-objective
-direct
-external
-simultaneous
-5
-The man was arrested <by> [mistake]. {He has the same name as the criminal}.
-ontological
-objective
-direct
-external
-n.a.
-6
-The tree fell <due to> [the wind].
-ontological
-objective
-direct
-external
-n.a.
-7
-The man died <from> [electric shock] {immediately}.
-ontological
-objective
-direct
-external
-n.a.
-8
-The woman woke up <from> [the noise].
-ontological
-objective
-direct
-external
-n.a.
-9
-The man has a headache <from> [the beer].
-ontological
-objective
-direct
-external
-anterior
-10
-{The puppy tumbled over in a funny way}. The woman laughed <at> [the puppy].
-ontological
-objective
-direct
-external
-n.a.
-11
-The man died <from> [a poisonous fish] {2 days after poisoning}.
-ontological
-objective
-direct
-external
-anterior
-12
-The girl is satisfied <with> [her grade].
-ontological
-objective
-direct
-external
-n.a.
-13
-{The man said something bad}. The wife was angered <by> [her husband’s words].
-ontological
-objective
-direct
-external
-n.a.
-14
-The boy was thrilled <by> [this idea]. {His dad has suggested to go watch football}.
-ontological
-objective
-direct
-external
-n.a.
-15
-The man was weakened <by> [hunger].
-ontological
-objective
-direct
-internal
-simultaneous
-16
-The man died <of> [starvation].
-ontological
-objective
-direct
-internal
-simultaneous
-17
-The man is screaming <from> [the pain].
-ontological
-objective
-direct
-internal
-simultaneous
-18
-The woman is shivering <from> [the cold]. 
-ontological
-objective
-direct
-internal
-simultaneous
-19
-The child began to cry <out of> [fear].
-ontological
-objective
-direct
-internal
-simultaneous
-20
-The child laughed <with> [joy].
-ontological
-objective
-direct
-internal
-simultaneous
-21
-The child hid in the barn <out of> [fear].
-ontological
-objective
-direct
-internal
-simultaneous
-22
-The man kept silent <out of> [modesty].
-ontological
-objective
-direct
-internal
-simultaneous
-23
-The woman grabbed her brother’s hand <in> [fear].
-ontological
-objective
-direct
-internal
-simultaneous
-24
-The woman is tired <from> [work].
-ontological
-objective
-direct
-internal
-anterior
-25
-The woman can’t fall asleep <because of> [the mosquitoes].
-ontological
-objective
-indirect
-external
-simultaneous
-26
-The water looks bright <because of> [the moon].
-ontological
-objective
-indirect
-external
-simultaneous
-27
-<Thanks to> [his dog], the man had a successful hunt.
-ontological
-objective
-indirect
-external
-simultaneous
-28
-{The man said something bad}. The wife was angry <at> [her husband].
-ontological
-objective
-indirect
-external
-n.a.
-29
-The woman was late for work <because of> [her husband]. {He forgot his car keys at home}.
-ontological
-objective
-indirect
-external
-anterior
-30
-The people died <because of> [the earthquake]. {The miners were trapped in a mineshaft and could not be saved}.
-ontological
-objective
-indirect
-external
-anterior
-31
-All misfortunes happen <because of> [humans/people].
-ontological
-objective
-indirect
-external
-n.a.
-32
-The man can see better now <thanks to> [the operation].
-ontological
-objective
-indirect
-external
-anterior
-33
-The woman is alive <thanks to> [that man]. {He found her when she got lost in the forest}.
-ontological
-objective
-indirect
-external
-anterior
-34
-The man told his wife about it <out of> stupidity].
-ontological
-objective
-indirect
-internal
-simultaneous
-35
-The woman slipped <because of> [carelessness].
-ontological
-objective
-indirect
-internal
-simultaneous
-36
-The pilot was able to land the plane <thanks to> [his experience].
-ontological
-objective
-indirect
-internal
-anterior
-37
-The pilot could not land the plane <due to> [inexperience].
-ontological
-objective
-indirect
-internal
-n.a.
-38
-In wartime, people ate grass <out of> [hunger].
-ontological
-subjective
-direct
-internal
-simultaneous
-39
-The woman went inside <out of> [curiosity].
-ontological
-subjective
-direct
-internal
-simultaneous
-40
-The man killed his wife <out of> [jealousy].
-ontological
-subjective
-direct
-internal
-simultaneous
-41
-The man told everyone about it <out of> [vanity].
-ontological
-subjective
-direct
-internal
-simultaneous
-42
-The woman broke all the dishes <out of> [anger].
-ontological
-subjective
-direct
-internal
-simultaneous
-43
-The woman went to sleep clothed <because of> [the cold]. {Her furnace was broken}.
-ontological
-subjective
-indirect
-external
-simultaneous
-44
-The teacher commended the student <for> [his suit].
-ontological
-subjective
-indirect
-external
-n.a.
-45
-The man killed his neighbor <because of> [his words].
-ontological
-subjective
-indirect
-external
-anterior
-46
-The children fought <over> [the ball].
-ontological
-subjective
-indirect
-external
-n.a.
-47
-The man argued with his brother <over> [the inheritance].
-ontological
-subjective
-indirect
-external
-n.a.
-48
-The woman bought the book <because of> [the pictures].
-ontological
-subjective
-indirect
-external
-simultaneous
-49
-The woman canceled plans with her friend <because of> [her bad mood].
-ontological
-subjective
-indirect
-internal
-simultaneous
-50
-<Judging by> [the puddles], it rained last night.
-epistemic
-n.a.
-n.a.
-n.a.
-n.a.
-51
-<Judging by> [the bubbles], the water is boiling.
-epistemic
-n.a.
-n.a.
-n.a.
-n.a.
-52
-Come into the house, <?> [the cold].
-illocutive
-n.a.
-n.a.
-n.a.
-n.a.
-53
-Where is my sweater <?> [the cold].
-illocutive
-n.a.
-n.a.
-n.a.
-n.a.
-54
-<Per> [mathematical law], this number cannot be less than one.
-logical
-n.a.
-n.a.
-n.a.
-n.a.
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: left; background-color: black; color: white">
+      <th>No</th>
+      <th>sentence</th>
+      <th>type</th>
+      <th>obj/subj</th>
+      <th>dir/indir</th>
+      <th>inter/exter</th>
+      <th>taxis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>The handkerchief got soaked &lt;from&gt; [tears].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>The branch broke &lt;from&gt; [the weight].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>The woman is coughing &lt;because of&gt; [the smoke].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>We can’t see the shore &lt;because of&gt; [the darkness].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>The man was arrested &lt;by&gt; [mistake]. {He has the same name as the criminal}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>The tree fell &lt;due to&gt; [the wind].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>The man died &lt;from&gt; [electric shock] {immediately}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>The woman woke up &lt;from&gt; [the noise].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>The man has a headache &lt;from&gt; [the beer].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>{The puppy tumbled over in a funny way}. The woman laughed &lt;at&gt; [the puppy].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>The man died &lt;from&gt; [a poisonous fish] {2 days after poisoning}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>The girl is satisfied &lt;with&gt; [her grade].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>{The man said something bad}. The wife was angered &lt;by&gt; [her husband’s words].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>The boy was thrilled &lt;by&gt; [this idea]. {His dad has suggested to go watch football}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>The man was weakened &lt;by&gt; [hunger].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>The man died &lt;of&gt; [starvation].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>The man is screaming &lt;from&gt; [the pain].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>The woman is shivering &lt;from&gt; [the cold].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>The child began to cry &lt;out of&gt; [fear].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>The child laughed &lt;with&gt; [joy].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>The child hid in the barn &lt;out of&gt; [fear].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>The man kept silent &lt;out of&gt; [modesty].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>The woman grabbed her brother’s hand &lt;in&gt; [fear].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>The woman is tired &lt;from&gt; [work].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>The woman can’t fall asleep &lt;because of&gt; [the mosquitoes].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>The water looks bright &lt;because of&gt; [the moon].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>&lt;Thanks to&gt; [his dog], the man had a successful hunt.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>{The man said something bad}. The wife was angry &lt;at&gt; [her husband].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>The woman was late for work &lt;because of&gt; [her husband]. {He forgot his car keys at home}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>The people died &lt;because of&gt; [the earthquake]. {The miners were trapped in a mineshaft and could not be saved}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>All misfortunes happen &lt;because of&gt; [humans/people].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>The man can see better now &lt;thanks to&gt; [the operation].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>The woman is alive &lt;thanks to&gt; [that man]. {He found her when she got lost in the forest}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>The man told his wife about it &lt;out of&gt; stupidity].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>The woman slipped &lt;because of&gt; [carelessness].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>The pilot was able to land the plane &lt;thanks to&gt; [his experience].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>The pilot could not land the plane &lt;due to&gt; [inexperience].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>In wartime, people ate grass &lt;out of&gt; [hunger].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>The woman went inside &lt;out of&gt; [curiosity].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>The man killed his wife &lt;out of&gt; [jealousy].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>The man told everyone about it &lt;out of&gt; [vanity].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>The woman broke all the dishes &lt;out of&gt; [anger].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>The woman went to sleep clothed &lt;because of&gt; [the cold]. {Her furnace was broken}.</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>The teacher commended the student &lt;for&gt; [his suit].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>The man killed his neighbor &lt;because of&gt; [his words].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>The children fought &lt;over&gt; [the ball].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>The man argued with his brother &lt;over&gt; [the inheritance].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>The woman bought the book &lt;because of&gt; [the pictures].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>The woman canceled plans with her friend &lt;because of&gt; [her bad mood].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>&lt;Judging by&gt; [the puddles], it rained last night.</td>
+      <td>epistemic</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>&lt;Judging by&gt; [the bubbles], the water is boiling.</td>
+      <td>epistemic</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>Come into the house, &lt;?&gt; [the cold].</td>
+      <td>illocutive</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>Where is my sweater &lt;?&gt; [the cold].</td>
+      <td>illocutive</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>&lt;Per&gt; [mathematical law], this number cannot be less than one.</td>
+      <td>logical</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+  </tbody>
+</table>
 
-
+<br/>
 
 ### Russian version
 
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: left; background-color: black; color: white">
+      <th>No</th>
+      <th>sentence</th>
+      <th>type</th>
+      <th>obj/subj</th>
+      <th>dir/indir</th>
+      <th>inter/exter</th>
+      <th>taxis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Платок намок &lt;от&gt; [слез].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Ветка сломалась &lt;от&gt; [тяжести].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Женщина кашляет &lt;от&gt; [дыма].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Мы не видим берег &lt;из-за&gt; [темноты].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Мужчину арестовали &lt;по&gt; [ошибке]. {Он однофамилец преступника}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Дерево упало &lt;от&gt; [ветра].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Мужчина погиб &lt;от&gt; [удара тока] {сразу}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Женщина проснулась &lt;от&gt; [шума].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>У мужчины &lt;от&gt; [пива] болит голова.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>{Щенок смешно кувыркается} Женщина рассмеялась &lt;?&gt; [щенок].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Мужчина умер &lt;от&gt; [ядовитой рыбы] {через два дня после отравления}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Девочка довольна [своей оценкой].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>{Мужчина сказал что-то плохое}. Жена рассердилась &lt;на&gt; [слова мужа].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Мальчик в восторге &lt;от&gt; [этой идеи] {папа предложил ему сходить на футбол}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Мужчина ослабел &lt;от&gt; [голода].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Мужчина умер &lt;от&gt; [голода].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Мужчина кричит &lt;от&gt; [боли].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Женщина дрожит &lt;от&gt; [холода].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Ребенок заплакал &lt;от&gt; [страха].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Ребенок рассмеялся &lt;от&gt; [радости].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Ребенок &lt;от&gt; [страха] спрятался в сарае[1].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Мужчина &lt;по&gt; [скромности] промолчал.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Женщина &lt;в&gt; [страхе] схватила брата за руку.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Женщина устала &lt;от&gt; [работы].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Женщина не может заснуть &lt;из-за&gt; [комаров].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Вода кажется светлой &lt;из-за&gt; [луны].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Мужчина удачно сходил на охоту &lt;благодаря&gt; [собаке].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>{Мужчина сказал что-то плохое}. Жена рассердилась &lt;на&gt; [мужа][2].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Женщина опоздала на работу &lt;из-за&gt; [мужа] {он забыл дома ключи от машины}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>Люди погибли &lt;из-за&gt; [землетрясения] {шахтеры оказались заперты в шахте, и их не смогли спасти}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Все беды происходят &lt;из-за&gt; [человека / людей].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Мужчина стал лучше видеть &lt;благодаря&gt; [операции].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>Женщина жива &lt;благодаря&gt; [этому мужчине] {он нашел ее, когда она заблудилась в лесу}.</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Мужчина рассказал об этом жене &lt;по&gt; [глупости].[3]</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Женщина поскользнулась &lt;по&gt; [неосторожности].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Пилот смог посадить самолет &lt;благодаря&gt; [большому опыту].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Пилот не смог посадить самолет &lt;из-за&gt; [неопытности].</td>
+      <td>ontological</td>
+      <td>objective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Во время войны люди &lt;с&gt; [голода] ели траву.</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>Женщина зашла внутрь &lt;из&gt; [любопытства].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>Мужчина убил жену &lt;из&gt; [ревности].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>Мужчина всем об этом рассказал &lt;из&gt; [тщеславия].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>Женщина разбила всю посуду &lt;от&gt; [злости].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>direct</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>Женщина легла спать одетой &lt;из-за&gt; [холода][4] {у нее сломалась печка}.</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>Учитель похвалил ученика &lt;за&gt; [его костюм].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>Мужчина побил соседа &lt;за&gt; [его слова].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>anterior</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>Дети подрались &lt;из-за&gt; [мяча].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>Мужчина поссорился с братом &lt;из-за&gt; [наследства].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>Женщина купила эту книгу &lt;из-за&gt; [рисунков].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>external</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>Женщина не стала встречаться с подругой &lt;из-за&gt; [плохого настроения].</td>
+      <td>ontological</td>
+      <td>subjective</td>
+      <td>indirect</td>
+      <td>internal</td>
+      <td>simultaneous</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>&lt;Судя по&gt; [лужам], ночью шел дождь.</td>
+      <td>epistemic</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>&lt;Судя по&gt; [пузырькам], вода уже закипела.</td>
+      <td>epistemic</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>Заходи в дом &lt;?&gt; [холод].[1]</td>
+      <td>illocutive</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>Где мой свитер &lt;?&gt; [холод]?</td>
+      <td>illocutive</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>Это число не может быть меньше единицы &lt;в силу&gt; [математических законов].</td>
+      <td>logical</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+      <td>n.a.</td>
+    </tr>
+  </tbody>
+</table>
 
-No
-sentence
-type
-obj/subj
-dir/indir
-inter/exter
-taxis
-1
-Платок намок <от> [слез].
-ontological
-objective
-direct
-external
-simultaneous
-2
-Ветка сломалась <от> [тяжести].
-ontological
-objective
-direct
-external
-simultaneous
-3
-Женщина кашляет <от> [дыма].
-ontological
-objective
-direct
-external
-simultaneous
-4
-Мы не видим берег <из-за> [темноты].
-ontological
-objective
-direct
-external
-simultaneous
-5
-Мужчину арестовали <по> [ошибке]. {Он однофамилец преступника}.
-ontological
-objective
-direct
-external
-n.a.
-6
-Дерево упало <от> [ветра].
-ontological
-objective
-direct
-external
-n.a.
-7
-Мужчина погиб <от> [удара тока] {сразу}.
-ontological
-objective
-direct
-external
-n.a.
-8
-Женщина проснулась <от> [шума].
-ontological
-objective
-direct
-external
-n.a.
-9
-У мужчины <от> [пива] болит голова.
-ontological
-objective
-direct
-external
-anterior
-10
-{Щенок смешно кувыркается} Женщина рассмеялась <?> [щенок].
-ontological
-objective
-direct
-external
-n.a.
-11
-Мужчина умер <от> [ядовитой рыбы] {через два дня после отравления}.
-ontological
-objective
-direct
-external
-anterior
-12
-Девочка довольна [своей оценкой].
-ontological
-objective
-direct
-external
-n.a.
-13
-{Мужчина сказал что-то плохое}. Жена рассердилась <на> [слова мужа].
-ontological
-objective
-direct
-external
-n.a.
-14
-Мальчик в восторге <от> [этой идеи] {папа предложил ему сходить на футбол}.
-ontological
-objective
-direct
-external
-n.a.
-15
-Мужчина ослабел <от> [голода].
-ontological
-objective
-direct
-internal
-simultaneous
-16
-Мужчина умер <от> [голода].
-ontological
-objective
-direct
-internal
-simultaneous
-17
-Мужчина кричит <от> [боли].
-ontological
-objective
-direct
-internal
-simultaneous
-18
-Женщина дрожит <от> [холода].
-ontological
-objective
-direct
-internal
-simultaneous
-19
-Ребенок заплакал <от> [страха].
-ontological
-objective
-direct
-internal
-simultaneous
-20
-Ребенок рассмеялся <от> [радости].
-ontological
-objective
-direct
-internal
-simultaneous
-21
-Ребенок <от> [страха] спрятался в сарае[1].
-ontological
-objective
-direct
-internal
-simultaneous
-22
-Мужчина <по> [скромности] промолчал.
-ontological
-objective
-direct
-internal
-simultaneous
-23
-Женщина <в> [страхе] схватила брата за руку.
-ontological
-objective
-direct
-internal
-simultaneous
-24
-Женщина устала <от> [работы].
-ontological
-objective
-direct
-internal
-anterior
-25
-Женщина не может заснуть <из-за> [комаров].
-ontological
-objective
-indirect
-external
-simultaneous
-26
-Вода кажется светлой <из-за> [луны].
-ontological
-objective
-indirect
-external
-simultaneous
-27
-Мужчина удачно сходил на охоту <благодаря> [собаке].
-ontological
-objective
-indirect
-external
-simultaneous
-28
-{Мужчина сказал что-то плохое}. Жена рассердилась <на> [мужа][2].
-ontological
-objective
-indirect
-external
-n.a.
-29
-Женщина опоздала на работу <из-за> [мужа] {он забыл дома ключи от машины}.
-ontological
-objective
-indirect
-external
-anterior
-30
-Люди погибли <из-за> [землетрясения] {шахтеры оказались заперты в шахте, и их не смогли спасти}.
-ontological
-objective
-indirect
-external
-anterior
-31
-Все беды происходят <из-за> [человека / людей].
-ontological
-objective
-indirect
-external
-n.a.
-32
-Мужчина стал лучше видеть <благодаря> [операции].
-ontological
-objective
-indirect
-external
-anterior
-33
-Женщина жива <благодаря> [этому мужчине] {он нашел ее, когда она заблудилась в лесу}.
-ontological
-objective
-indirect
-external
-anterior
-34
-Мужчина рассказал об этом жене <по> [глупости].[3]
-ontological
-objective
-indirect
-internal
-simultaneous
-35
-Женщина поскользнулась <по> [неосторожности].
-ontological
-objective
-indirect
-internal
-simultaneous
-36
-Пилот смог посадить самолет <благодаря> [большому опыту].
-ontological
-objective
-indirect
-internal
-anterior
-37
-Пилот не смог посадить самолет <из-за> [неопытности].
-ontological
-objective
-indirect
-internal
-n.a.
-38
-Во время войны люди <с> [голода] ели траву.
-ontological
-subjective
-direct
-internal
-simultaneous
-39
-Женщина зашла внутрь <из> [любопытства].
-ontological
-subjective
-direct
-internal
-simultaneous
-40
-Мужчина убил жену <из> [ревности].
-ontological
-subjective
-direct
-internal
-simultaneous
-41
-Мужчина всем об этом рассказал <из> [тщеславия].
-ontological
-subjective
-direct
-internal
-simultaneous
-42
-Женщина разбила всю посуду <от> [злости].
-ontological
-subjective
-direct
-internal
-simultaneous
-43
-Женщина легла спать одетой <из-за> [холода][4] {у нее сломалась печка}.
-ontological
-subjective
-indirect
-external
-simultaneous
-44
-Учитель похвалил ученика <за> [его костюм].
-ontological
-subjective
-indirect
-external
-n.a.
-45
-Мужчина побил соседа <за> [его слова].
-ontological
-subjective
-indirect
-external
-anterior
-46
-Дети подрались <из-за> [мяча].
-ontological
-subjective
-indirect
-external
-n.a.
-47
-Мужчина поссорился с братом <из-за> [наследства].
-ontological
-subjective
-indirect
-external
-n.a.
-48
-Женщина купила эту книгу <из-за> [рисунков].
-ontological
-subjective
-indirect
-external
-simultaneous
-49
-Женщина не стала встречаться с подругой <из-за> [плохого настроения].
-ontological
-subjective
-indirect
-internal
-simultaneous
-50
-<Судя по> [лужам], ночью шел дождь.
-epistemic
-n.a.
-n.a.
-n.a.
-n.a.
-51
-<Судя по> [пузырькам], вода уже закипела.
-epistemic
-n.a.
-n.a.
-n.a.
-n.a.
-52
-Заходи в дом <?> [холод].[1]
-illocutive
-n.a.
-n.a.
-n.a.
-n.a.
-53
-Где мой свитер <?> [холод]?
-illocutive
-n.a.
-n.a.
-n.a.
-n.a.
-54
-Это число не может быть меньше единицы <в силу> [математических законов].
-logical
-n.a.
-n.a.
-n.a.
-n.a.
-
-
-
-
+<style>
+tr:nth-child(even) {background: #F5F5F5}
+tr:nth-child(odd) {background: #FFF}
+</style>
