@@ -1,6 +1,6 @@
 ## Karelian
 
-Contributed by Irina Gorbunova. The data were gathered in 2022.
+Contributed by Irina Gorbunova. The data were gathered in 2022. The data below represent the Southern Ludic of Karelian.
 
 ### How to cite
 
