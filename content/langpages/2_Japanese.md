@@ -1,6 +1,8 @@
 ## Japanese
 
-Contributed by Artemii Kuznetsov. The data were gathered in 2021.
+Contributed by Artemii Kuznetsov ([Academia.edu profile](https://independent.academia.edu/ArtemiiKuznetsov)). The data were gathered in 2021.
+
+![A.K.'s photo]({{ site_url_j }}/images/Kuznecov.jpg "A.K.'s photo")
 
 ### How to cite
 
