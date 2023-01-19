@@ -43,7 +43,7 @@
 * Diana Mikaelian, Maksim Fedotov: [Armenian (Eastern)]({{ site_url_j }}/langpages/ArmenianEastern.html)
 * Chiara Naccarato: [Italian]({{ site_url_j }}/langpages/Italian.html)
 * Ivan Netkachev: [Indonesian (Standard)]({{ site_url_j }}/langpages/IndonesianStandard.html)
-* Anastasia Panova: [Eskimo (Central Siberian Yupik)]({{ site_url_j }}/langpages/EskimoCentralSiberianYupik.html)
+* Anastasia Panova: [Yupik (Siberian)]({{ site_url_j }}/langpages/EskimoCentralSiberianYupik.html)
 * Tatiana Repnina: [Catalan]({{ site_url_j }}/langpages/Catalan.html), [Spanish]({{ site_url_j }}/langpages/Spanish.html) 
 * Roman Ronko: [Shughni]({{ site_url_j }}/langpages/Shughni.html)
 * Daria Ryzhova: [Serbian]({{ site_url_j }}/langpages/Serbian.html)
