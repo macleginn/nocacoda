@@ -1,6 +1,6 @@
 ## Russian
 
-Contributed by [Sergey Say](https://iling.spb.ru/people/say.html.ru) [Academia.edu profile](https://iling-spb.academia.edu/SergeySay). The data were gathered in 2021.
+Contributed by [Sergey Say](https://iling.spb.ru/people/say.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/SergeySay)). The data were gathered in 2021.
 
 ![S.S.'s photo]({{ site_url_j }}/images/Say.jpg "S.S.'s photo")
 
