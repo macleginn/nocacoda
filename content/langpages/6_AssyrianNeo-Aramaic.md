@@ -1,6 +1,8 @@
 ## Assyrian Neo-Aramaic
 
-Contributed by Natalia Logvinova. The data were gathered in 2021.
+Contributed by [Natalia Logvinova](https://iling.spb.ru/people/logvinova.html.ru) ([Academia.edu profile](https://independent.academia.edu/NLogvinova), [GoogleScholar profile](https://scholar.google.com/citations?user=5gh5RK8AAAAJ&hl=de)). The data were gathered in 2021.
+
+![N.L.'s photo]({{ site_url_j }}/images/Logvinova.jpg "N.L.'s photo")
 
 ### How to cite
 
