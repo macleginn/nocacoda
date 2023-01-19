@@ -1,6 +1,8 @@
 ## Guro
 
-Contributed by Olga Kuznetsova. The data were gathered in 2021.
+Contributed by [Olga Kuznetsova](https://iling.spb.ru/people/kuznetsova_o.html) ([Academia.edu profile](https://iling-spb.academia.edu/OlgaKouznetsova)). The data were gathered in 2021.
+
+![O.K.'s photo]({{ site_url_j }}/images/Kuznecova.jpg "O.K.'s photo")
 
 ### How to cite
 
