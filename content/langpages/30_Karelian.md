@@ -2,6 +2,8 @@
 
 Contributed by Irena Gorbunova ([Academia.edu profile](https://rggu.academia.edu/IreneGorbunova)), Eva Poliakova, and Polina Smetkina. The data were gathered in 2022. They represent the Southern Ludic dialect of Karelian.
 
+![I.G.'s photo]({{ site_url_j }}/images/Gorbunova.jpg "I.G.'s photo")
+
 ![E.P.'s photo]({{ site_url_j }}/images/Poliakova.jpg "E.P.'s photo")
 
 ![P.S.'s photo]({{ site_url_j }}/images/Smetkina.jpg "P.S.'s photo")
