@@ -1,6 +1,8 @@
 ## Italian
 
-Contributed by Chiara Naccarato. The data were gathered in 2022.
+Contributed by [Chiara Naccarato](https://www.hse.ru/en/org/persons/224233250). The data were gathered in 2022.
+
+![C.N.'s photo]({{ site_url_j }}/images/Naccarato.jpeg "N.C.'s photo")
 
 ### How to cite
 
