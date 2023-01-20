@@ -1,6 +1,8 @@
 ## Spanish
 
-Contributed by Tatiana Repnina. The data were gathered in 2022.
+Contributed by [Tatiana Repnina](https://iling.spb.ru/people/repnina.html.ru) ([ResearchGate profile](https://www.researchgate.net/profile/Tatiana-Repnina)). The data were gathered in 2021.
+
+![T.R.'s photo]({{ site_url_j }}/images/Repnina.jpg "T.R.'s photo")
 
 ### How to cite
 
