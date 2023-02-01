@@ -1,0 +1,15 @@
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+2	Japanese	INS	affix	yes	no	yes	yes	no	no	n.a.	n.a.
+2	Japanese	ABL	affix	yes	no	no	no	no	yes	n.a.	n.a.
+2	Japanese	DAT	affix	no	yes	no	yes	no	no	n.a.	n.a.
+2	Japanese	DAT_taishite	adposition	no	no	no	no	no	no	yes	target of emotion/attitude
+2	Japanese	DAT_yotte	adposition	yes	no	yes	no	no	no	n.a.	n.a.
+2	Japanese	GEN_amari	adposition	yes	no	no	no	no	no	no	n.a.
+2	Japanese	GEN_koto-de	adposition	no	no	no	no	yes	no	n.a.	n.a.
+2	Japanese	GEN_okage-de	adposition	yes	no	no	no	no	no	no	n.a.
+2	Japanese	GEN_sei-de	adposition	yes	no	no	no	no	no	no	n.a.
+2	Japanese	GEN_tame	adposition	yes	yes	no	no	no	no	n.a.	n.a.
+2	Japanese	GEN_tame-ni	adposition	yes	yes	no	no	no	no	n.a.	n.a.
+2	Japanese	ACC	affix	no	no	yes	yes	yes	no	n.a.	n.a.
+2	Japanese	ACC_megutte	adposition	no	no	no	no	yes	no	n.a.	n.a.
+2	Japanese	yue	adposition	yes	no	no	no	no	no	no	n.a.
