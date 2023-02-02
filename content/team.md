@@ -30,14 +30,14 @@
 * Maria Cheremisinova, Elizaveta Zabelina: [Udmurt (South)]({{ site_url_j }}/langpages/UdmurtSouth.html)
 * Anna Daugavet: [Latvian]({{ site_url_j }}/langpages/Latvian.html)
 * Sergey Dmitrenko: [Khmer]({{ site_url_j }}/langpages/Khmer.html), Thai
-* Anastasia Dmitrieva: Khanty (Northern)
+* Anastasia Dmitrieva: [Khanty (Northern)]({{ site_url_j }}/langpages/KhantyNorthern.html)
 * Emma Geniušienė: [Lithuanian]({{ site_url_j }}/langpages/Lithuanian.html)
-* Irene Gorbunova: Khwarshi
 * Irene Gorbunova, Eva Poliakova, Polina Smetkina: [Karelian]({{ site_url_j }}/langpages/Karelian.html)
+* Irene Gorbunova, Grigorij Sibiljof: Khwarshi
 * Maria Gvozdkova: [Albanian]({{ site_url_j }}/langpages/Albanian.html)
 * Elena Kordi, Elizaveta Zabelina: [French]({{ site_url_j }}/langpages/French.html)
 * Artemii Kuznetsov: [Japanese]({{ site_url_j }}/langpages/Japanese.html)
-* Olga Kuznetsova: [Guro]({{ site_url_j }}/langpages/Guro.html), Norwegian (Bokmål)
+* Olga Kuznetsova: [Guro]({{ site_url_j }}/langpages/Guro.html), [Norwegian (Bokmål)]({{ site_url_j }}/langpages/NorwegianBokmal.html)
 * Natalia Logvinova: [English]({{ site_url_j }}/langpages/English.html), [Assyrian Neo-Aramaic]({{ site_url_j }}/langpages/AssyrianNeo-Aramaic.html)
 * Ramazan Mamedshakhov: [Arabic]({{ site_url_j }}/langpages/Arabic.html), [Lezgian]({{ site_url_j }}/langpages/Lezgian.html)
 * Diana Mikaelian, Maksim Fedotov: [Armenian (Eastern)]({{ site_url_j }}/langpages/ArmenianEastern.html)
