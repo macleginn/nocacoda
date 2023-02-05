@@ -1,6 +1,6 @@
 ## Norwegian (Bokmål)
 
-Contributed by [Olga Kuznetsova](https://iling.spb.ru/people/kuznetsova_o.html) ([Academia.edu profile](https://iling-spb.academia.edu/OlgaKouznetsova)). The data were gathered in 2022.
+Contributed by [Olga Kuznetsova](https://iling.spb.ru/persons/kuznecova-olga-vasilevna) ([Academia.edu profile](https://iling-spb.academia.edu/OlgaKouznetsova)). The data were gathered in 2022.
 
 ![O.K.'s photo]({{ site_url_j }}/images/Kuznecova.jpg "O.K.'s photo")
 
