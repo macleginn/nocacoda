@@ -1,6 +1,8 @@
 ## Shughni
 
-Contributed by Roman Ronko. The data were gathered in 2021.
+Contributed by [Roman Ronko](https://www.ruslang.ru/publica/ronko) ([Academia.edu profile](https://scopus.academia.edu/RomanRonko), [ResearchGate profile](https://www.researchgate.net/profile/Roman-Ronko)). The data were gathered in 2021.
+
+![R.R.'s photo]({{ site_url_j }}/images/Ronko.jpg "R.R.'s photo")
 
 ### How to cite
 
