@@ -1,6 +1,6 @@
 language_no	language_ru	language_en	contributor_ru	contributor_en	glottocode	data_collection_year	initial_release_date	last_release_date	macroarea	family (WALS)	genus (WALS)	latitude	longitude	contact_language	coding responsibility	payment	year when the language is mentioned as newly added in the yearly grant reports	markers.xlsx
 1	английский	English	Наталья Николаевна Логвинова	Natalia Logvinova	stan1293	2021	December 1, 2022	December 1, 2022	Europe	Indo-European	Germanic	53	-1	Russian	Natalia Logvinova	Paid in 2021	2021	yes
-2	японский	Japanese	Артемий Андреевич Кузнецов	Artemii Kuznetsov	nucl1643	2021	December 1, 2022	December 1, 2022	East and Southeast Asia	Japanese	Japanese	37	140	Russian, English	Elizaveta Zabelina	Paid in 2021	2021	yes
+2	японский	Japanese	Артемий Андреевич Кузнецов	Artemii Kuznetsov	nucl1643	2021	December 1, 2022	February 1, 2023	East and Southeast Asia	Japanese	Japanese	37	140	Russian, English	Elizaveta Zabelina	Paid in 2021	2021	yes
 3	русский	Russian	Сергей Сергеевич Сай	Sergey Say	russ1263	2021	December 1, 2022	December 1, 2022	Europe	Indo-European	Slavic	58	38	English	Sergey Say	Paid in 2021	2021	yes
 4	французский	French	Елена Евгеньевна Корди, Елизавета Александровна Забелина	Elena Kordi, Elizaveta Zabelina	stan1290	2021	December 1, 2022	December 1, 2022	Europe	Indo-European	Romance	48	2	Russian	Elizaveta Zabelina	Paid in 2021	2021	yes
 5	каталанский	Catalan	Татьяна Владимировна Репнина	Tatiana Repnina	stan1289	2021	December 1, 2022	December 1, 2022	Europe	Indo-European	Romance	41	2	English	Elizaveta Zabelina	Paid in 2021	2021	yes
@@ -29,11 +29,11 @@ language_no	language_ru	language_en	contributor_ru	contributor_en	glottocode	dat
 28	баскский	Basque	Наталья Михайловна Заика	Natalia Zaika	basq1248	2022	December 1, 2022	December 1, 2022	Europe	Basque	Basque	43	-3	English	Elizaveta Zabelina	Paid in 2022	2022	yes
 29	сербский	Serbian	Дарья Александровна Рыжова	Daria Ryzhova	serb1264	2022	December 1, 2022	December 1, 2022	Europe	Indo-European	Slavic	44	19	Russian	Natalia Logvinova	Paid in 2022	2022	yes
 30	карельский	Karelian	Ирина Михайловна Горбунова, Ева Егоровна Полякова, Полина Юлиевна Сметкина	Irene Gorbunova, Eva Poliakova, Polina Smetkina	ludi1246	2022	December 1, 2022	December 1, 2022	Europe	Uralic	Finnic	64	32	Russian	Natalia Logvinova	Paid in 2022	2022	yes
-31	казахский	Kazakh	Анастасия Жук	Anastasia Zhuk		2022			North and Central Asia	Altaic	Turkic	51	71	Russian	Natalia Logvinova	Paid in 2022	2022	
+31	казахский	Kazakh	Анастасия Жук	Anastasia Zhuk	kaza1248 	2022	February 13, 2023	February 13, 2023	North and Central Asia	Altaic	Turkic	51	71	Russian	Natalia Logvinova	Paid in 2022	2022	yes
 32	узбекский	Uzbek	Анастасия Жук	Anastasia Zhuk		2022			North and Central Asia	Altaic	Turkic	41	69	Russian	Elizaveta Zabelina	Paid in 2022	2022	
 33	чаплинский эскимосский	Yupik (Siberian)	Анастасия Борисовна Панова	Anastasia Panova	cent2128	2022	December 1, 2022	December 1, 2022	Eurasia	Eskimo-Aleut	Eskimo	65	-173	Russian	Natalia Logvinova	Paid in 2022	2022	yes
 34	индонезийский	Indonesian (Standard)	Иван Валерьевич Неткачев	Ivan Netkachev	indo1316 	2022	December 1, 2022	December 1, 2022	Papunesia	Austronesian	Malayo-Sumbawan	0	106	English	Natalia Logvinova	Paid in 2022 (contribution in June 2022, coding in December)	2022	yes
-35	норвежский (букмол)	Norwegian (Bokmål)	Ольга Васильевна Кузнецова	Olga Kuznetsova	norw1258	2022	February 1, 2023	February 1, 2023	Europe	Indo-European	Germanic	61	8	English	Natalia Logvinova	Paid in 2022	2022	yes
+35	норвежский (букмол)	Norwegian (Bokmål)	Ольга Васильевна Кузнецова	Olga Kuznetsova	norw1258	2022	February 1, 2023	February 13, 2023	Europe	Indo-European	Germanic	61	8	English	Natalia Logvinova	Paid in 2022	2022	yes
 36	севернохантыйский	Khanty (Northern)	Анастасия Анатольевна Дмитриева	Anastasia Dmitrieva	nort3264	2022	January 10, 2023	January 10, 2023	Europe	Uralic	Ugric	65	65	Russian	Elizaveta Zabelina	Paid in 2022	2022	yes
 37	китайский	Chinese (Mandarin)	Алевтина Анатольевна Уткина	Alevtina Utkina		2022			East and Southeast Asia	Sino-Tibetan	Chinese	40	116	English	Elizaveta Zabelina	Paid in 2022	2022	
 38	мокшанский	Moksha	Светлана Юрьевна Толдова	Svetlana Toldova		2022			Europe	Uralic	Mordvin	54	43	Russian	Natalia Logvinova	Paid in 2022		
