@@ -1,6 +1,6 @@
 ## Urdu
 
-Contributed by [Elizaveta Zabelina](https://iling.spb.ru/people/zabelina.html.ru) ([Academia.edu profile](https://iling-spb.academia.edu/ElizavetaZabelina)). The data were gathered in 2021.
+Contributed by [Elizaveta Zabelina](https://iling.spb.ru/persons/zabelina-elizaveta-aleksandrovna) ([Academia.edu profile](https://iling-spb.academia.edu/ElizavetaZabelina)). The data were gathered in 2021.
 
 ![E.Z.'s photo]({{ site_url_j }}/images/Zabelina.jpg "E.Z.'s photo")
 
