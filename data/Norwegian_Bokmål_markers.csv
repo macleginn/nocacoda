@@ -1,0 +1,10 @@
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+35	Norwegian Bokmål	pa_grunn_av	adposition	yes	no	no	no	no	no	no	n.a.
+35	Norwegian Bokmål	av	adposition	yes	no	no	no	no	yes	n.a.	n.a.
+35	Norwegian Bokmål	takket_vare	adposition	yes	no	no	no	no	no	no	n.a.
+35	Norwegian Bokmål	i	adposition	no	yes	no	yes	no	no	n.a.	n.a.
+35	Norwegian Bokmål	over	adposition	yes	yes	yes	yes	no	no	n.a.	n.a.
+35	Norwegian Bokmål	ved	adposition	yes	no	no	yes	no	no	n.a.	n.a.
+35	Norwegian Bokmål	med	adposition	no	no	yes	no	no	no	n.a.	n.a.
+35	Norwegian Bokmål	pa	adposition	no	yes	no	yes	no	no	n.a.	n.a.
+35	Norwegian Bokmål	for	adposition	yes	yes	no	yes	no	no	n.a.	n.a.
