@@ -1,6 +1,6 @@
 ## Catalan
 
-Contributed by [Tatiana Repnina](https://iling.spb.ru/people/repnina.html.ru) ([ResearchGate profile](https://www.researchgate.net/profile/Tatiana-Repnina)). The data were gathered in 2021.
+Contributed by [Tatiana Repnina](https://iling.spb.ru/persons/repnina-tatyana-vladimirovna) ([ResearchGate profile](https://www.researchgate.net/profile/Tatiana-Repnina)). The data were gathered in 2021.
 
 ![T.R.'s photo]({{ site_url_j }}/images/Repnina.jpg "T.R.'s photo")
 
