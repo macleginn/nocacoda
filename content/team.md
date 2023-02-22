@@ -46,7 +46,7 @@
 * Anastasia Panova: [Yupik (Siberian)]({{ site_url_j }}/langpages/EskimoCentralSiberianYupik.html)
 * Tatiana Repnina: [Catalan]({{ site_url_j }}/langpages/Catalan.html), [Spanish]({{ site_url_j }}/langpages/Spanish.html) 
 * Roman Ronko: [Shughni]({{ site_url_j }}/langpages/Shughni.html)
-* Daria Ryzhova: [Serbian]({{ site_url_j }}/langpages/Serbian.html)
+* Daria Ryzhova, Miljka Stanković: [Serbian]({{ site_url_j }}/langpages/Serbian.html)
 * Sergey Say: [Russian]({{ site_url_j }}/langpages/Russian.html), [Slovenian]({{ site_url_j }}/langpages/Slovenian.html), [Polish]({{ site_url_j }}/langpages/Polish.html)
 * Varvara Shuvalova: [Swedish]({{ site_url_j }}/langpages/Swedish.html)
 * Svetlana Toldova: Moskha
