@@ -1,6 +1,6 @@
 ## Serbian
 
-Contributed by [Daria Ryzhova](https://www.hse.ru/en/org/persons/65846678) ([Academia.edu profile](https://he.academia.edu/DariaRyzhova)), [Miljka Stanković](https://rs.linkedin.com/in/miljka-stankovic-70156b98). The data were gathered in 2022.
+Contributed by [Daria Ryzhova](https://www.hse.ru/en/org/persons/65846678) ([Academia.edu profile](https://he.academia.edu/DariaRyzhova)) & [Miljka Stanković](https://rs.linkedin.com/in/miljka-stankovic-70156b98). The data were gathered in 2022.
 
 ![D.R.'s photo]({{ site_url_j }}/images/Ryzhova.jpg "N.Z.'s photo")
 
