@@ -1,6 +1,6 @@
 ## French
 
-Contributed by Elena Kordi, Elizaveta Zabelina. The data were gathered in 2021.
+Contributed by [Elena Kordi](https://iling.spb.ru/persons/kordi-elena-evgenevna) & [Elizaveta Zabelina](https://iling.spb.ru/persons/zabelina-elizaveta-aleksandrovna) ([Academia.edu profile](https://iling-spb.academia.edu/ElizavetaZabelina)). The data were gathered in 2021.
 
 ### How to cite
 
