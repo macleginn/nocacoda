@@ -6,14 +6,14 @@ All languages we are aware of possess *nominal causal constructions*, that is, c
 
 (While there is no generally accepted non-circular definition of the causal meaning as such, and some even think such a definition is not feasible, there is some degree of consensus as to which syntactic constructions should be considered causal. For the purposes of this project, the causal meaning will be viewed as a semantic primitive).
 
-There is ample cross-lingual evidence to the effect that languages typically possess several competing nominal causal constructions that carve out different, even if overlapping, parts in the semantic domain of cause, as exemplified by the two introductory examples from English above. A significant number of detailed studies have identified semantic parameters that govern the choice between nominal causal constructions in individual languages, such as English (Radden 1985; Dirven 1995); Russian (Iordanskaia, Mel'chuk 1996; Levontina 2003; Klangová 2017), Serbian (Ivić 1954; Kovačević 1988), Czech (Klangová 2017), Lithuanian (Valiulytė 1998). However, we are not aware of similar studies based on less well studied languages outside of Europe; large-scale typological inquiries in this domain are also lacking. 
+There is ample cross-lingual evidence to the effect that languages typically possess several competing nominal causal constructions that carve out different, even if overlapping, parts in the semantic domain of cause, as exemplified by the two introductory examples from English above. A significant number of detailed studies have identified semantic parameters that govern the choice between nominal causal constructions in individual languages, such as English (Radden 1985; Dirven 1995), Russian (Iordanskaia, Mel'chuk 1996; Levontina 2003; Klangová 2017), Serbian (Ivić 1954; Kovačević 1988), Czech (Klangová 2017), Lithuanian (Valiulytė 1998). However, we are not aware of similar studies based on less well studied languages outside of Europe; large-scale typological inquiries in this domain are also lacking. 
 
 Our goal is to partially fill this gap. In particular, we aim at answering the following questions:
-What morphosyntactic types of markers (case affixes, adpositions, and less common variants) are involved in nominal causal constructions in the languages of the world?
-What types of spatial and non-spatial cognitive schemas are involved in the grammaticalization and semantic-change patterns, as manifested in the polysemy patterns displayed by individual nominal causal markers, such as cases and adpositions?
-What semantic parameters condition the choice between competing nominal causal constructions in individual languages?
-To what extent are systems of nominal causal constructions (dis)similar across languages?
-To what extent are these (dis)similarities conditioned by genealogical, areal, and more general typological factors, such as word order, richness of nominal morphology, preference for balanced/deranked dependent clauses, etc.
+* What morphosyntactic types of markers (case affixes, adpositions, and less common variants) are involved in nominal causal constructions in the languages of the world?
+* What types of spatial and non-spatial cognitive schemas are involved in the grammaticalization and semantic-change patterns, as manifested in the polysemy patterns displayed by individual nominal causal markers, such as cases and adpositions?
+* What semantic parameters condition the choice between competing nominal causal constructions in individual languages?
+* To what extent are systems of nominal causal constructions (dis)similar across languages?
+* To what extent are these (dis)similarities conditioned by genealogical, areal, and more general typological factors, such as word order, richness of nominal morphology, preference for balanced/deranked dependent clauses, etc.
 
 ### General design of the database
 
