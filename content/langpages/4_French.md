@@ -2,6 +2,8 @@
 
 Contributed by [Elena Kordi](https://iling.spb.ru/persons/kordi-elena-evgenevna) & [Elizaveta Zabelina](https://iling.spb.ru/persons/zabelina-elizaveta-aleksandrovna) ([Academia.edu profile](https://iling-spb.academia.edu/ElizavetaZabelina)). The data were gathered in 2021.
 
+![E.Z.'s photo]({{ site_url_j }}/images/Zabelina.jpg "E.Z.'s photo")
+
 ### How to cite
 
 Kordi, Elena & Elizaveta Zabelina. 2022. Nominal causal constructions in French. In: Say, Sergey, Natalia Logvinova,
