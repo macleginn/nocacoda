@@ -22,7 +22,7 @@
 
 ![D.N.'s photo](https://dnikolaev.com/images/mitya.jpg "D.N.'s photo")
 
-[Dmitry Nikolaev](https://dnikolaev.com) ([Academia.edu profile](https://su-se.academia.edu/DmitryNikolaev)): PhD, postdoc at the Institute for Natural Language Processing, University of Stuttgart
+[Dmitry Nikolaev](https://dnikolaev.com) ([Academia.edu profile](https://su-se.academia.edu/DmitryNikolaev), [GoogleScholar profile](https://scholar.google.com/citations?user=Myl8EpkAAAAJ&hl=en)): PhD, postdoc at the Institute for Natural Language Processing, University of Stuttgart
 
 ### Language contributors
 

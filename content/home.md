@@ -22,7 +22,7 @@ ways in which the nominal causal meaning is conveyed in a specific language). Be
 To cite NoCaCoDa as a whole
 > Say, Sergey, Natalia Logvinova, Elizaveta Zabelina, and Natalia Zaika (eds.). 2022–. NoCaCoDa: Typological database 
 > of nominal causal constructions. St. Petersburg: Institute for Linguistic Studies, RAS. (Available online at 
-> {{ site_url }}, Accessed on {{ today }})
+> [{{ site_url }}]({{ site_url }}). Accessed on {{ today }})
 
 ## Contact details
 
