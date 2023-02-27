@@ -1,6 +1,8 @@
 ## German
 
-Contributed by Daria Alfimova. The data were gathered in 2022.
+Contributed by [Daria Alfimova](https://www.uni-potsdam.de/de/slavische-linguistik/team/daria-alfimova). The data were gathered in 2022.
+
+![D.A.'s photo]({{ site_url_j }}/images/Alfimova.jpg "D.A.'s photo")
 
 ### How to cite
 
