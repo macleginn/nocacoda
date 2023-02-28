@@ -1,6 +1,6 @@
 ## Armenian (Eastern)
 
-Contributed by Diana Mikaelian, Maksim Fedotov. The data were gathered in 2022.
+Contributed by Diana Mikaelian & [Maksim Fedotov](https://iling.spb.ru/persons/fedotov-maksim-leonidovich). The data were gathered in 2022.
 
 ### How to cite
 
