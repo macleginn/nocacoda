@@ -2,6 +2,8 @@
 
 Contributed by [Elena Kordi](https://iling.spb.ru/persons/kordi-elena-evgenevna) & [Elizaveta Zabelina](https://iling.spb.ru/persons/zabelina-elizaveta-aleksandrovna) ([Academia.edu profile](https://iling-spb.academia.edu/ElizavetaZabelina)). The data were gathered in 2021.
 
+![E.K.'s photo]({{ site_url_j }}/images/Kordi.jpg "E.K.'s photo")
+
 ![E.Z.'s photo]({{ site_url_j }}/images/Zabelina.jpg "E.Z.'s photo")
 
 ### How to cite
