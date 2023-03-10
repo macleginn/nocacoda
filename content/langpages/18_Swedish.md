@@ -2,7 +2,7 @@
 
 Contributed by Varvara Shuvalova. The data were gathered in 2021.
 
-![V.Sh.'s photo]({{ site_url_j }}/images/Shuvalova.jpg "V.Sh.'s photo")
+![V.Sh.'s photo]({{ site_url_j }}/images/Shuvalova.jpeg "V.Sh.'s photo")
 
 ### How to cite
 
