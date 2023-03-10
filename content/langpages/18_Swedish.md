@@ -2,6 +2,8 @@
 
 Contributed by Varvara Shuvalova. The data were gathered in 2021.
 
+![V.Sh.'s photo]({{ site_url_j }}/images/Shuvalova.jpg "V.Sh.'s photo")
+
 ### How to cite
 
 Shuvalova, Varvara. 2022. Nominal causal constructions in Swedish. In: Say, Sergey, Natalia Logvinova,
