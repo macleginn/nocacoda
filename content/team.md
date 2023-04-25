@@ -53,4 +53,4 @@
 * Alevtina Utkina: Chinese (Mandarin)
 * Elizaveta Zabelina: [Telugu]({{ site_url_j }}/langpages/Telugu.html), [Urdu]({{ site_url_j }}/langpages/Urdu.html)
 * Natalia Zaika: [Belarusian]({{ site_url_j }}/langpages/Belarusian.html), [Chuvash (Maloe Karachkino)]({{ site_url_j }}/langpages/ChuvashMaloeKarachkino.html), [Ukrainian]({{ site_url_j }}/langpages/Ukrainian.html), [Basque]({{ site_url_j }}/langpages/Basque.html)
-* Anastasia Zhuk: Kazakh, Uzbek
+* Anastasia Zhuk: [Kazakh]({{ site_url_j }}/langpages/Kazakh.html), Uzbek
