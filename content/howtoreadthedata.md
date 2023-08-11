@@ -14,9 +14,9 @@ The translations obtained are considered a part of the database only if they mee
 
 The inclusion criteria are as follows:
 
-i) The causing event is syntactically represented by a noun phrase. The minimal necessary condition is the compatibility of its head with unquestionably nominal marking; thus, English gerunds can be considered “syntactically nouns” (*because of doing*), while English infinitives cannot (* *because of (to) do*).  
-ii) This noun phrase has approximately the same meaning as the English/Russian noun phrase in the stimulus sentence.  
-iii) This noun phrase is not a syntactic subject (i.e., sentences like ‘The tears made the handkerchief wet’ are not included).
+1. The causing event is syntactically represented by a noun phrase. The minimal necessary condition is the compatibility of its head with unquestionably nominal marking; thus, English gerunds can be considered “syntactically nouns” (*because of doing*), while English infinitives cannot (* *because of (to) do*).
+2. This noun phrase has approximately the same meaning as the English/Russian noun phrase in the stimulus sentence.  
+3. This noun phrase is not a syntactic subject (i.e., sentences like ‘The tears made the handkerchief wet’ are not included).
 
 ### Semantic parameters associated with individual stimulus sentences
 
