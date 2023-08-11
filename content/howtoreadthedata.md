@@ -56,13 +56,13 @@ The sentence in the target language with morpheme boundaries.
 - “glosses_en”  
 English glosses
  
-- “back_translation_en”  
+- “back\_translation\_en”  
 Back translation of the target-language sentence to English. This is useful if the meaning of the sentence obtained deviates from the questionnaire stimulus.
  
 - “glosses_ru”  
 Russian glosses.
  
-- “back_translation_ru”  
+- “back\_translation\_ru”  
 Back translation of the target-language sentence to Russian. This is useful if the meaning of the sentence obtained deviates from the questionnaire stimulus.
  
 - “comments”  
