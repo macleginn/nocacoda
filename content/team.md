@@ -38,7 +38,7 @@
 * Elena Kordi, Elizaveta Zabelina: [French]({{ site_url_j }}/langpages/French.html)
 * Artemii Kuznetsov: [Japanese]({{ site_url_j }}/langpages/Japanese.html)
 * Olga Kuznetsova: [Guro]({{ site_url_j }}/langpages/Guro.html), [Norwegian (Bokmål)]({{ site_url_j }}/langpages/NorwegianBokmal.html)
-* Natalia Logvinova: [English]({{ site_url_j }}/langpages/English.html), [Assyrian Neo-Aramaic]({{ site_url_j }}/langpages/AssyrianNeo-Aramaic.html)
+* Natalia Logvinova: [English]({{ site_url_j }}/langpages/English.html), [Assyrian Neo-Aramaic]({{ site_url_j }}/langpages/AssyrianNeo-Aramaic.html), [Kumyk]({{ site_url_j }}/langpages/Kumyk.html)
 * Ramazan Mamedshakhov: [Arabic]({{ site_url_j }}/langpages/Arabic.html), [Lezgian]({{ site_url_j }}/langpages/Lezgian.html)
 * Diana Mikaelian, Maksim Fedotov: [Armenian (Eastern)]({{ site_url_j }}/langpages/ArmenianEastern.html)
 * Chiara Naccarato: [Italian]({{ site_url_j }}/langpages/Italian.html)
@@ -48,9 +48,10 @@
 * Roman Ronko: [Shughni]({{ site_url_j }}/langpages/Shughni.html)
 * Daria Ryzhova, Miljka Stanković: [Serbian]({{ site_url_j }}/langpages/Serbian.html)
 * Sergey Say: [Russian]({{ site_url_j }}/langpages/Russian.html), [Slovenian]({{ site_url_j }}/langpages/Slovenian.html), [Polish]({{ site_url_j }}/langpages/Polish.html)
+* Sophia Shumilova: [Erzya]({{ site_url_j }}/langpages/Erzya.html)
 * Varvara Shuvalova: [Swedish]({{ site_url_j }}/langpages/Swedish.html)
 * Svetlana Toldova: Moskha
-* Alevtina Utkina: Chinese (Mandarin)
+* Alevtina Utkina: [Chinese (Mandarin)]({{ site_url_j }}/langpages/ChineseMandarin.html)
 * Elizaveta Zabelina: [Telugu]({{ site_url_j }}/langpages/Telugu.html), [Urdu]({{ site_url_j }}/langpages/Urdu.html)
 * Natalia Zaika: [Belarusian]({{ site_url_j }}/langpages/Belarusian.html), [Chuvash (Maloe Karachkino)]({{ site_url_j }}/langpages/ChuvashMaloeKarachkino.html), [Ukrainian]({{ site_url_j }}/langpages/Ukrainian.html), [Basque]({{ site_url_j }}/langpages/Basque.html)
 * Anastasia Zhuk: [Kazakh]({{ site_url_j }}/langpages/Kazakh.html), Uzbek
