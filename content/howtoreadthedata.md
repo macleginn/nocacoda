@@ -47,8 +47,8 @@ A numeric code of the stimulus sentence (1, 2, … 54), primarily used for linki
 - “status”  
 This parameter has two values: “main” vs. “alternate”. For each combination of the stimulus sentence and target language exactly one entry is tagged as “main”. All other entries are tagged as “alternate” (their number is in principle unlimited). The choice of the “main” translation is driven by the criteria of naturalness (when possible, operationalized in terms of frequency) and translational accuracy.
  
-- “causal_marker”  
-This is the main dependent variable in the database. In this field, language-specific markers are given in the form of their main allomorph, with no diacritics and in lower case; grammatical labels are given in upper case. E.g., the marker in the German sentence *Der Lehrer lobte den Schüler für seine Kleidung* ‘The teacher commended the student for his suit’ is tagged as “fur_ACC”. In case the translation obtained does not meet the inclusion criteria (see ‘Inclusion criteria’above) this field is filled in as “n.a.”.
+- “causal\_marker”  
+This is the main dependent variable in the database. In this field, language-specific markers are given in the form of their main allomorph, with no diacritics and in lower case; grammatical labels are given in upper case. E.g., the marker in the German sentence *Der Lehrer lobte den Schüler für seine Kleidung* ‘The teacher commended the student for his suit’ is tagged as “fur\_ACC”. In case the translation obtained does not meet the inclusion criteria (see ‘Inclusion criteria’above) this field is filled in as “n.a.”.
 
 - “sentence”  
 The sentence in the target language with morpheme boundaries.
