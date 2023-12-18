@@ -1,0 +1,7 @@
+language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
+41	Filipino	ayon_sa	adposition	yes	no	yes	no	no	no	n.a.	n.a.
+41	Filipino	dahil_sa	adposition	yes	no	no	no	no	no	no	n.a.
+41	Filipino	dulot_ng	adposition	yes	no	no	no	no	no	no	n.a.
+41	Filipino	gawa_ng	adposition	yes	no	no	no	no	no	no	n.a.
+41	Filipino	GEN	adposition	yes	no	no	no	no	no	yes	possessor; passive agent
+41	Filipino	sa	adposition	yes	yes	no	yes	no	yes	n.a.	n.a.
