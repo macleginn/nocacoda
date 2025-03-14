@@ -1,0 +1,10 @@
+language_no,language_name,causal_marker,morphosyntactic_type,explicitness,goal,instrument,location,object,source,other,other_details
+38,Moksha,inksa_GEN,adposition,yes,yes,no,no,yes,no,no,n.a.
+38,Moksha,ezda_GEN,adposition,yes,no,no,no,no,yes,no,n.a.
+38,Moksha,CSL,case,yes,yes,no,no,yes,no,no,n.a.
+38,Moksha,EL,case,yes,no,no,no,no,yes,no,n.a.
+38,Moksha,koras_GEN,adposition,yes,no,yes,no,no,no,yes,standard of comparison
+38,Moksha,DAT,case,yes,yes,no,no,no,no,no,n.a.
+38,Moksha,ABL,case,yes,no,no,no,no,yes,no,n.a.
+38,Moksha,mela_ABL,adposition,no,no,no,no,no,no,yes,"after, behind"
+38,Moksha,langs_GEN,adposition,no,no,no,no,yes,no,no,n.a.
