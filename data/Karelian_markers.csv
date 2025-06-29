@@ -1,9 +1,9 @@
 language_no	language_name	causal_marker	morphosyntactic_type	explicitness	goal	instrument	location	object	source	other	other_details
-31	Karelian	IN	affix	yes	no	no	no	no	yes	n.a.	n.a.
+31	Karelian	EL	affix	yes	no	no	no	no	yes	n.a.	n.a.
 31	Karelian	tahte_GEN	adposition	yes	yes	no	no	no	no	n.a.	n.a.
 31	Karelian	perad_GEN	adposition	yes	yes	no	no	no	no	n.a.	n.a.
-31	Karelian	EL	affix	yes	no	no	no	yes	yes	n.a.	n.a.
-31	Karelian	AD	affix	yes	no	yes	yes	no	no	yes	possessor
-31	Karelian	perad_EL	adposition	yes	no	no	no	no	no	no	n.a.
-31	Karelian	TRANS	affix	no	no	no	no	no	no	yes	final state of transformation
+31	Karelian	EL2	affix	yes	no	no	no	yes	yes	n.a.	n.a.
+31	Karelian	AD	affix	yes	no	yes	yes	no	no	n.a.	n.a.
+31	Karelian	perad_EL	adposition	yes	no	no	no	no	no	no	no
+31	Karelian	TRANS	affix	no	no	no	no	no	no	yes	translative
 31	Karelian	piale_GEN	adposition	no	no	no	no	no	yes	n.a.	n.a.
