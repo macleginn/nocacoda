@@ -37,7 +37,7 @@ The data sets for individual languages were provided by specialists in respectiv
 
 At the next stage of data processing, each nominal causal marker was tagged for its morphosyntactic type, degree of explicitness, and polysemy / syncretism as discussed in [How to read the data]({{ site_url_j }}/howtoreadthedata.html). This markup as well as the final technical preparation of the data set for the inclusion in the database was done by *coders*, namely [Natalia Logvinova, Sergey Say, or Elizaveta Zabelina]({{ site_url_j }}/team.html). Whenever possible, the coders consulted available grammatical descriptions and discussed controversial cases with the contributors.
 
-The data collected within the framework of the project are subject to analysis in a multitude of perspectives: semantic, cognitive, areal, etc. Some results of these endeavors are available in the [Publications](https://nocacoda.info/publications.html) section.
+The data collected within the framework of the project are subject to analysis in a multitude of perspectives: semantic, cognitive, areal, etc. Some results of these endeavors are available in the [Publications]({{ site_url_j }}/publications.html) section.
 
 ### History of the project
 
