@@ -12,9 +12,7 @@ Alternative translational equivalents are welcome. If a given stimulus sentence 
 
 ## Informal instructions for coders
 
-Coder is a representative of the NoCaCoDa database who interacts with language contributors and is responsible for preparing the spreadsheets meeting the database's substantial and technical conventions.
-
-Working with language contributors should result in creating two  spreadsheets per language: 
+A coder is a representative of the NoCaCoDa database who interacts with language contributors and is responsible for preparing spreadsheets that comply with the database’s substantive and technical conventions. The coder’s interaction with language contributors should result in two spreadsheets per language:
 1) languagename_data.csv (e.g., “French_data.csv”): entries in this spreadsheet correspond to individual translations of the questionnaire sentences into the target language
 2) languagename_markers.csv (e.g., “French_markers.csv”): entries in this spreadsheet correspond to all different nominal causal markers encountered in the languagename_data.csv spreadsheet
 
