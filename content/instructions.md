@@ -1,4 +1,4 @@
-## Informal instructions for contributors
+## Instructions for contributors
 
 Language contributors are linguists with expertise in the target language whose task is to elicit the necessary translations from native speakers and to provide them in the form accessible to "coders". Contributor’s main goal is to provide **adequate** translations of stimulus sentences and to identify **nominal causal markers** employed (if any).
 
@@ -10,7 +10,7 @@ If the sentence obtained is semantically different from the questionnaire stimul
 
 Alternative translational equivalents are welcome. If a given stimulus sentence has more than one equivalent, one of the equivalents must be marked as “main” (other equivalents will be marked “alternate”) based on their naturalness / frequency.
 
-## Informal instructions for coders
+## Instructions for coders
 
 A coder is a representative of the NoCaCoDa database who interacts with language contributors and is responsible for preparing spreadsheets that comply with the database’s substantive and technical conventions. The coder’s interaction with language contributors should result in two spreadsheets per language:
 
