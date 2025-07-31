@@ -2,7 +2,7 @@
 
 ### General
 
-This questionnaire contains 54 stimulus sentences constructed for a typological study of nominal causal constructions. A nominal causal construction is a causal construction in which the causing event is syntactically represented by a noun phrase (henceforward a *causal noun phrase*), cf. *The woman is shivering from [the cold]* or *The woman was late for work because of [her husband]* in English (see [Project description](https://nocacoda.info/project_description.html) for details). This questionnaire can be used for exploring the ways in which nominal causal markers, such as *from* and *because of* in the examples above, are distributed among causal contexts in individual languages. For this reason, the stimulus sentences display various combinations of potentially relevant semantic properties, as discussed in the “Questionnaire design” section below.
+This questionnaire contains 54 stimulus sentences constructed for a typological study of nominal causal constructions. A nominal causal construction is a causal construction in which the causing event is syntactically represented by a noun phrase (henceforward a *causal noun phrase*), cf. *The woman is shivering from [the cold]* or *The woman was late for work because of [her husband]* in English (see [Project description](({{ site_url_j }}/project_description.html) for details). This questionnaire can be used for exploring the ways in which nominal causal markers, such as *from* and *because of* in the examples above, are distributed among causal contexts in individual languages. For this reason, the stimulus sentences display various combinations of potentially relevant semantic properties, as discussed in the “Questionnaire design” section below.
 
 ### How to cite
 
