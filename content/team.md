@@ -50,7 +50,6 @@
 * Sergey Say: [Russian]({{ site_url_j }}/langpages/Russian.html), [Slovenian]({{ site_url_j }}/langpages/Slovenian.html), [Polish]({{ site_url_j }}/langpages/Polish.html)
 * Sophia Shumilova: [Erzya]({{ site_url_j }}/langpages/Erzya.html)
 * Varvara Shuvalova: [Swedish]({{ site_url_j }}/langpages/Swedish.html)
-* Svetlana Toldova: Moskha
 * Alevtina Utkina: [Chinese (Mandarin)]({{ site_url_j }}/langpages/ChineseMandarin.html)
 * Elizaveta Zabelina: [Telugu]({{ site_url_j }}/langpages/Telugu.html), [Urdu]({{ site_url_j }}/langpages/Urdu.html)
 * Natalia Zaika: [Belarusian]({{ site_url_j }}/langpages/Belarusian.html), [Chuvash (Maloe Karachkino)]({{ site_url_j }}/langpages/ChuvashMaloeKarachkino.html), [Ukrainian]({{ site_url_j }}/langpages/Ukrainian.html), [Basque]({{ site_url_j }}/langpages/Basque.html)
