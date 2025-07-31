@@ -28,7 +28,7 @@ Stimulus sentences are identified by numeric codes (“stimulus_no”: 1, 2, …
 - Internal vs. external causes.
 - Taxis: simultaneous vs. anterior.
 
-These parameters are explained in the [Questionnaire](https://nocacoda.info/questionnaire.html) section. Their values ascribed to the stimulus sentences are inherited by the entries in the final dataset. 
+These parameters are explained in the [questionnaire]({{ site_url_j }}/questionnaire.html) section. Their values ascribed to the stimulus sentences are inherited by the entries in the final dataset. 
 
 ### Parameters associated with individual translations into target languages
 
