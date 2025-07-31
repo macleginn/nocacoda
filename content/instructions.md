@@ -41,6 +41,6 @@ The following fields must be present in the spreadsheet:
 - “language_no” (as in languagename_data.csv).
 - “language_name” (as in languagename_data.csv).
 - “causal_marker”. All markers should be identified and spelled in exactly the same way as in languagename_data.csv.
-- “morphosyntactic_type”. See howtoreadthedata for details.
-- "explicitness". See howtoreadthedata for details.
-- non-causal meanings (Columns F-L). See howtoreadthedata for details.
+- “morphosyntactic_type”. See [How to read the data]({{ site_url_j }}/howtoreadthedata.html) for details.
+- "explicitness". See [How to read the data]({{ site_url_j }}/howtoreadthedata.html) for details.
+- non-causal meanings (Columns F-L). See [How to read the data]({{ site_url_j }}/howtoreadthedata.html) for details.
