@@ -29,7 +29,7 @@
 * Daria Alfimova: [German]({{ site_url_j }}/langpages/German.html)
 * Maria Cheremisinova, Elizaveta Zabelina: [Udmurt (South)]({{ site_url_j }}/langpages/UdmurtSouth.html)
 * Anna Daugavet: [Latvian]({{ site_url_j }}/langpages/Latvian.html)
-* Sergey Dmitrenko: [Khmer]({{ site_url_j }}/langpages/Khmer.html), Thai
+* Sergey Dmitrenko: [Khmer]({{ site_url_j }}/langpages/Khmer.html)
 * Anastasia Dmitrieva: [Khanty (Northern)]({{ site_url_j }}/langpages/KhantyNorthern.html)
 * Emma Geniušienė: [Lithuanian]({{ site_url_j }}/langpages/Lithuanian.html)
 * Irene Gorbunova, Eva Poliakova, Polina Smetkina: [Karelian]({{ site_url_j }}/langpages/Karelian.html)
