@@ -33,7 +33,7 @@
 * Anastasia Dmitrieva: [Khanty (Northern)]({{ site_url_j }}/langpages/KhantyNorthern.html)
 * Emma Geniušienė: [Lithuanian]({{ site_url_j }}/langpages/Lithuanian.html)
 * Irene Gorbunova, Eva Poliakova, Polina Smetkina: [Karelian]({{ site_url_j }}/langpages/Karelian.html)
-* Irene Gorbunova, Grigorij Sibiljof: Khwarshi
+* Irene Gorbunova, Grigorij Sibiljof: [Khwarshi]({{ site_url_j }}/langpages/Khwarshi.html)
 * Maria Gvozdkova: [Albanian]({{ site_url_j }}/langpages/Albanian.html)
 * Elena Kordi, Elizaveta Zabelina: [French]({{ site_url_j }}/langpages/French.html)
 * Artemii Kuznetsov: [Japanese]({{ site_url_j }}/langpages/Japanese.html)
