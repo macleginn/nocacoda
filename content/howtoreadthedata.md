@@ -1,6 +1,6 @@
 ## How to read the data
 
-Each full entry in the database contains a stimulus sentence from the [questionnaire](https://nocacoda.info/questionnaire.html) translated into a target language and annotated for a number of parameters. The dataset containing all full entries in a single spreadsheet is available [here](https://nocacoda.info/data_in_one_spreadsheet.html). The annotations used in the database come from three sets:
+Each full entry in the database contains a stimulus sentence from the [questionnaire]({{ site_url_j }}/questionnaire.html) translated into a target language and annotated for a number of parameters. The dataset containing all full entries in a single spreadsheet is available [here]({{ site_url_j }}/data_in_one_spreadsheet.html). The annotations used in the database come from three sets:
 
 1. Semantic parameters associated with individual stimulus sentences.
 2. Parameters associated with individual translations into target languages.
