@@ -27,6 +27,8 @@
 ### Language contributors
 
 * Daria Alfimova: [German]({{ site_url_j }}/langpages/German.html)
+* Peter Arkadiev, Irina Bagirokova: [Adyghe]({{ site_url_j }}/langpages/Adyghe.html)
+* Ekaterina Baklanova: [Filipino]({{ site_url_j }}/langpages/Filipino.html)
 * Maria Cheremisinova, Elizaveta Zabelina: [Udmurt (South)]({{ site_url_j }}/langpages/UdmurtSouth.html)
 * Anna Daugavet: [Latvian]({{ site_url_j }}/langpages/Latvian.html)
 * Sergey Dmitrenko: [Khmer]({{ site_url_j }}/langpages/Khmer.html)
